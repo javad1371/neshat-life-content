@@ -1,0 +1,1607 @@
+{
+  "category_id": 2,
+  "subcategory_id": 9,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "heart-whisper-001",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 001",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 1,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-002",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 002",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 2,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-003",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 003",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 3,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-004",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 004",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 4,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-005",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 005",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 5,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-006",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 006",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 6,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-007",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 007",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 7,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-008",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 008",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 8,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-009",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 009",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 9,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-010",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای آغاز روز؛ شماره 010",
+      "body": "خدایا، این روز تازه را با نیتی پاک و دلی آرام آغاز می‌کنم. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 10,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-011",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 011",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 11,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-012",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 012",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 12,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-013",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 013",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 13,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-014",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 014",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 14,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-015",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 015",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 15,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-016",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 016",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 16,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-017",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 017",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 17,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-018",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 018",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 18,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-019",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 019",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 19,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-020",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای روزهای دشوار؛ شماره 020",
+      "body": "پروردگارا، وقتی راه دشوار می‌شود، توان دیدن قدم بعدی را به من عطا کن. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 20,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-021",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 021",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 21,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-022",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 022",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 22,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-023",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 023",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 23,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-024",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 024",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 24,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-025",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 025",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 25,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-026",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 026",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 26,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-027",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 027",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 27,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-028",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 028",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 28,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-029",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 029",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 29,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-030",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خانواده؛ شماره 030",
+      "body": "خدایا، خانه‌ام را جای گفت‌وگوی مهربان، احترام و امنیت دل‌ها قرار بده. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 30,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-031",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 031",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 31,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-032",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 032",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 32,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-033",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 033",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 33,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-034",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 034",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 34,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-035",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 035",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 35,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-036",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 036",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 36,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-037",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 037",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 37,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-038",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 038",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 38,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-039",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 039",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 39,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-040",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای بخشش؛ شماره 040",
+      "body": "ای مهربان‌ترین، دلم را از کینه سبک کن و شجاعت جبران خطاهایم را بده. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 40,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-041",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 041",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 41,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-042",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 042",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 42,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-043",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 043",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 43,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-044",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 044",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 44,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-045",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 045",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 45,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-046",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 046",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 46,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-047",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 047",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 47,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-048",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 048",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 48,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-049",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 049",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 49,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-050",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای شکرگزاری؛ شماره 050",
+      "body": "خدایا، چشمم را به نعمت‌های آشکار و پنهان زندگی بگشا. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 50,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-051",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 051",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 51,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-052",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 052",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 52,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-053",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 053",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 53,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-054",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 054",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 54,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-055",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 055",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 55,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-056",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 056",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 56,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-057",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 057",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 57,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-058",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 058",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 58,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-059",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 059",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 59,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-060",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تصمیم‌گیری؛ شماره 060",
+      "body": "پروردگارا، در انتخاب‌هایم بصیرت، انصاف و آرامش نصیبم کن. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 60,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-061",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 061",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 61,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-062",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 062",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 62,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-063",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 063",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 63,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-064",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 064",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 64,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-065",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 065",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 65,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-066",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 066",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 66,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-067",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 067",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 67,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-068",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 068",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 68,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-069",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 069",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 69,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-070",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای خدمت؛ شماره 070",
+      "body": "خدایا، مرا وسیله‌ای برای گشودن گرهی از کار بندگانت قرار بده. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 70,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-071",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 071",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 71,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-072",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 072",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 72,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-073",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 073",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 73,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-074",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 074",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 74,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-075",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 075",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 75,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-076",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 076",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 76,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-077",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 077",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 77,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-078",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 078",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 78,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-079",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 079",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 79,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-080",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای تنهایی؛ شماره 080",
+      "body": "ای پناه دل‌ها، در لحظه‌های خلوت یاد خودت را مایه آرامشم کن. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 80,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-081",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 081",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 81,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-082",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 082",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 82,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-083",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 083",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 83,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-084",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 084",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 84,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-085",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 085",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 85,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-086",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 086",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 86,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-087",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 087",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 87,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-088",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 088",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 88,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-089",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 089",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 89,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-090",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای دانایی؛ شماره 090",
+      "body": "پروردگارا، دانشی سودمند و توفیق عمل به آموخته‌هایم عطا فرما. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 90,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-091",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 091",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. کمکم کن پیش از سخن گفتن بیندیشم و پس از شنیدن، منصفانه پاسخ بدهم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 91,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-092",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 092",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. دل مرا از شتاب و قضاوت بی‌خبرانه دور نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 92,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-093",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 093",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. به من یاد بده سهم خود را با صداقت انجام دهم و نتیجه را به تو بسپارم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 93,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-094",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 094",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. زبانم را به کلامی آرام و رفتارم را به مهربانی آراسته کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 94,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-095",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 095",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. فرصت جبران را بشناسم و از اشتباه دیروز پلی برای بهترشدن بسازم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 95,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-096",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 096",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. نگاهم را از مقایسه بی‌ثمر بردار و به مسئولیت امروز خودم برگردان.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 96,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-097",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 097",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. در نعمت‌ها مغرور و در دشواری‌ها مأیوس نشوم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 97,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-098",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 098",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. توان عذرخواهی، گذشت و اصلاح را در وجودم زنده نگه دار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 98,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-099",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 099",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. به من نیرویی بده تا کار درست را حتی وقتی آسان نیست انتخاب کنم.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 99,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heart-whisper-100",
+      "category_id": 2,
+      "subcategory_id": 9,
+      "content_type": "munajat",
+      "title": "نجوای امید؛ شماره 100",
+      "body": "خدایا، امیدم را از تلاش جدا مکن و در ناامیدی‌ها چراغی پیش پایم بگذار. پایان این روز را با وجدانی آسوده و دلی امیدوار به فردا همراه ساز.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 100,
+        "subcategory": "نجوای دل",
+        "note": "مناجات ادبی اصیل؛ نقل مأثور نیست",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
