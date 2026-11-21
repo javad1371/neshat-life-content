@@ -1,0 +1,1507 @@
+{
+  "category_id": 3,
+  "subcategory_id": 18,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "practical-tips-001",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 001",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 1,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-002",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 002",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 2,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-003",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 003",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 3,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-004",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 004",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 4,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-005",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 005",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 5,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-006",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 006",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 6,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-007",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 007",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 7,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-008",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 008",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 8,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-009",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 009",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 9,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-010",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مدیریت زمان؛ نکته 010",
+      "body": "مدیریت زمان: برای کارهای امروز سه اولویت واقعی بنویس و کنار هرکدام زمان تقریبی بگذار. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 10,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-011",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 011",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 11,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-012",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 012",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 12,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-013",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 013",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 13,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-014",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 014",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 14,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-015",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 015",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 15,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-016",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 016",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 16,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-017",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 017",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 17,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-018",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 018",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 18,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-019",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 019",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 19,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-020",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تمرکز هنگام مطالعه؛ نکته 020",
+      "body": "تمرکز هنگام مطالعه: پیش از شروع، هدف همین نوبت را در یک جمله مشخص کن و فقط همان را دنبال کن. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 20,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-021",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 021",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 21,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-022",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 022",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 22,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-023",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 023",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 23,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-024",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 024",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 24,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-025",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 025",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 25,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-026",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 026",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 26,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-027",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 027",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 27,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-028",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 028",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 28,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-029",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 029",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 29,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-030",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "مرتب‌سازی خانه؛ نکته 030",
+      "body": "مرتب‌سازی خانه: هر بار فقط یک سطح کوچک مثل میز یا یک قفسه را سامان بده تا کار نیمه‌تمام نماند. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 30,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-031",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 031",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 31,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-032",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 032",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 32,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-033",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 033",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 33,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-034",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 034",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 34,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-035",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 035",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 35,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-036",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 036",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 36,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-037",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 037",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 37,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-038",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 038",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 38,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-039",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 039",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 39,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-040",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "گفت‌وگوی مؤثر؛ نکته 040",
+      "body": "گفت‌وگوی مؤثر: پیش از پاسخ دادن، حرف طرف مقابل را با جمله‌ای کوتاه بازگو کن تا مطمئن شوی درست فهمیده‌ای. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 40,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-041",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 041",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 41,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-042",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 042",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 42,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-043",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 043",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 43,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-044",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 044",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 44,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-045",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 045",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 45,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-046",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 046",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 46,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-047",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 047",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 47,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-048",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 048",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 48,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-049",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 049",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 49,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-050",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "خرید هوشمندانه؛ نکته 050",
+      "body": "خرید هوشمندانه: فهرست نیازها را پیش از رفتن به فروشگاه آماده کن و خریدهای لحظه‌ای را جداگانه بررسی کن. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 50,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-051",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 051",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 51,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-052",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 052",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 52,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-053",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 053",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 53,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-054",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 054",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 54,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-055",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 055",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 55,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-056",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 056",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 56,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-057",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 057",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 57,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-058",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 058",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 58,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-059",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 059",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 59,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-060",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "حفظ آرامش؛ نکته 060",
+      "body": "حفظ آرامش: وقتی تنش بالا می‌رود، چند لحظه مکث کن و قبل از تصمیم، واقعیت را از برداشت شخصی جدا بنویس. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 60,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-061",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 061",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 61,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-062",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 062",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 62,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-063",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 063",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 63,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-064",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 064",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 64,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-065",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 065",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 65,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-066",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 066",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 66,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-067",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 067",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 67,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-068",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 068",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 68,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-069",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 069",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 69,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-070",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "یادگیری مهارت تازه؛ نکته 070",
+      "body": "یادگیری مهارت تازه: مهارت را به تمرین‌های کوتاه تقسیم کن و برای هر نوبت یک خروجی قابل مشاهده تعیین کن. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 70,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-071",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 071",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 71,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-072",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 072",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 72,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-073",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 073",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 73,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-074",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 074",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 74,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-075",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 075",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 75,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-076",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 076",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 76,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-077",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 077",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 77,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-078",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 078",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 78,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-079",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 079",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 79,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-080",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "رسیدگی به وسایل؛ نکته 080",
+      "body": "رسیدگی به وسایل: برای وسایل پرکاربرد جای ثابتی انتخاب کن و پس از استفاده همان‌جا برگردان. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 80,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-081",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 081",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 81,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-082",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 082",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 82,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-083",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 083",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 83,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-084",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 084",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 84,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-085",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 085",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 85,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-086",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 086",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 86,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-087",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 087",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 87,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-088",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 088",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 88,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-089",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 089",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 89,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-090",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "برنامه‌ریزی مالی؛ نکته 090",
+      "body": "برنامه‌ریزی مالی: هزینه‌های کوچک روزانه را ثبت کن تا تصویر روشن‌تری از مسیر خرج‌کردن داشته باشی. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 90,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-091",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 091",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. نتیجه را در پایان روز مرور کن و فقط یک اصلاح کوچک برای فردا انتخاب کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 91,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-092",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 092",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. یک یادآور ساده در زمان مناسب بگذار تا انجام کار به حافظه وابسته نباشد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 92,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-093",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 093",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. موانع شروع را از قبل کم کن؛ وسایل لازم را آماده و عوامل حواس‌پرتی را دور کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 93,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-094",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 094",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. کار را با نسخه‌ای پنج‌دقیقه‌ای آغاز کن؛ ادامه دادن پس از شروع معمولاً آسان‌تر می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 94,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-095",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 095",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. از فردی قابل اعتماد بازخورد مشخص بخواه و یک پیشنهاد عملی را آزمایش کن.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 95,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-096",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 096",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. پیشرفت را با وضعیت قبلی خودت بسنج، نه با سرعت یا نتیجه دیگران.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 96,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-097",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 097",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. برای کار حد پایان تعیین کن تا جزئیات کم‌اهمیت وقت اصلی را نگیرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 97,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-098",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 098",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. اگر برنامه به‌هم خورد، به‌جای کنارگذاشتن آن، کوچک‌ترین گام ممکن را انجام بده.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 98,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-099",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 099",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. یک نشانه قابل اندازه‌گیری تعریف کن تا بدانی روش انتخابی واقعاً مؤثر بوده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 99,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "practical-tips-100",
+      "category_id": 3,
+      "subcategory_id": 18,
+      "content_type": "practical_tip",
+      "title": "تقویت عادت خوب؛ نکته 100",
+      "body": "تقویت عادت خوب: عادت تازه را به کاری ثابت در برنامه روزانه وصل کن؛ مثلاً پس از صبحانه چند دقیقه تمرین. پس از انجام کار، ابزارها و محیط را برای نوبت بعد آماده بگذار.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 100,
+        "subcategory": "ترفندهای کاربردی",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
