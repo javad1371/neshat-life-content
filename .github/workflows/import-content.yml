@@ -1,0 +1,35 @@
+name: Import content bank to Supabase
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content-bank/**/*.json'
+      - 'scripts/import-content.mjs'
+      - '.github/workflows/import-content.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: neshat-content-supabase-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout content bank
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate and import unpublished records
+        env:
+          SUPABASE_URL: https://vpqhdgdjwyesjncaqpci.supabase.co
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          GITHUB_SHA: ${{ github.sha }}
+        run: node scripts/import-content.mjs
