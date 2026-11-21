@@ -23,7 +23,7 @@ async function walk(dir) {
 async function api(resource, options = {}) {
   const response = await fetch(SUPABASE_URL + '/rest/v1/' + resource, {
     ...options,
-    headers: { apikey: SUPABASE_KEY, Authorization: 'Bearer ' + SUPABASE_KEY, 'Content-Type': 'application/json', ...(options.headers ?? {}) },
+    headers: { apikey: SUPABASE_KEY, 'Content-Type': 'application/json', ...(options.headers ?? {}) },
   });
   const body = await response.text();
   if (!response.ok) throw new Error('Supabase ' + (options.method ?? 'GET') + ' ' + resource + ' failed (' + response.status + '): ' + body);
