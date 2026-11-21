@@ -1,608 +1,1506 @@
 {
-  "section": "کتابخانه مجازی",
-  "subcategory": "انرژی مثبت و انگیزه روز",
-  "subcategory_id": 16,
   "category_id": 4,
-  "total": 100,
-  "contents": [
+  "subcategory_id": 16,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
     {
-      "sequence": 1,
+      "id": "positive-energy-001",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید در آغاز روز",
       "body": "امید در آغاز روز؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 1,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 2,
+      "id": "positive-energy-002",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید در روزهای دشوار",
       "body": "امید در روزهای دشوار؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 2,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 3,
+      "id": "positive-energy-003",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید با قدم‌های کوچک",
       "body": "امید با قدم‌های کوچک؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 3,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 4,
+      "id": "positive-energy-004",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید در رابطه‌ها",
       "body": "امید در رابطه‌ها؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 4,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 5,
+      "id": "positive-energy-005",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید با خودت",
       "body": "امید با خودت؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 5,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 6,
+      "id": "positive-energy-006",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید در کارهای روزانه",
       "body": "امید در کارهای روزانه؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 6,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 7,
+      "id": "positive-energy-007",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید هنگام تصمیم‌گیری",
       "body": "امید هنگام تصمیم‌گیری؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 7,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 8,
+      "id": "positive-energy-008",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید پس از یک ناکامی",
       "body": "امید پس از یک ناکامی؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 8,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 9,
+      "id": "positive-energy-009",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید در مسیر رشد",
       "body": "امید در مسیر رشد؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 9,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 10,
+      "id": "positive-energy-010",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "امید برای فردایی روشن",
       "body": "امید برای فردایی روشن؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 10,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 11,
+      "id": "positive-energy-011",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش در آغاز روز",
       "body": "آرامش در آغاز روز؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 11,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 12,
+      "id": "positive-energy-012",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش در روزهای دشوار",
       "body": "آرامش در روزهای دشوار؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 12,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 13,
+      "id": "positive-energy-013",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش با قدم‌های کوچک",
       "body": "آرامش با قدم‌های کوچک؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 13,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 14,
+      "id": "positive-energy-014",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش در رابطه‌ها",
       "body": "آرامش در رابطه‌ها؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 14,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 15,
+      "id": "positive-energy-015",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش با خودت",
       "body": "آرامش با خودت؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 15,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 16,
+      "id": "positive-energy-016",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش در کارهای روزانه",
       "body": "آرامش در کارهای روزانه؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 16,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 17,
+      "id": "positive-energy-017",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش هنگام تصمیم‌گیری",
       "body": "آرامش هنگام تصمیم‌گیری؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 17,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 18,
+      "id": "positive-energy-018",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش پس از یک ناکامی",
       "body": "آرامش پس از یک ناکامی؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 18,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 19,
+      "id": "positive-energy-019",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش در مسیر رشد",
       "body": "آرامش در مسیر رشد؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 19,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 20,
+      "id": "positive-energy-020",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "آرامش برای فردایی روشن",
       "body": "آرامش برای فردایی روشن؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 20,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 21,
+      "id": "positive-energy-021",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار در آغاز روز",
       "body": "پشتکار در آغاز روز؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 21,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 22,
+      "id": "positive-energy-022",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار در روزهای دشوار",
       "body": "پشتکار در روزهای دشوار؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 22,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 23,
+      "id": "positive-energy-023",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار با قدم‌های کوچک",
       "body": "پشتکار با قدم‌های کوچک؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 23,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 24,
+      "id": "positive-energy-024",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار در رابطه‌ها",
       "body": "پشتکار در رابطه‌ها؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 24,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 25,
+      "id": "positive-energy-025",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار با خودت",
       "body": "پشتکار با خودت؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 25,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 26,
+      "id": "positive-energy-026",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار در کارهای روزانه",
       "body": "پشتکار در کارهای روزانه؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 26,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 27,
+      "id": "positive-energy-027",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار هنگام تصمیم‌گیری",
       "body": "پشتکار هنگام تصمیم‌گیری؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 27,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 28,
+      "id": "positive-energy-028",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار پس از یک ناکامی",
       "body": "پشتکار پس از یک ناکامی؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 28,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 29,
+      "id": "positive-energy-029",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار در مسیر رشد",
       "body": "پشتکار در مسیر رشد؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 29,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 30,
+      "id": "positive-energy-030",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "پشتکار برای فردایی روشن",
       "body": "پشتکار برای فردایی روشن؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 30,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 31,
+      "id": "positive-energy-031",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی در آغاز روز",
       "body": "مهربانی در آغاز روز؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 31,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 32,
+      "id": "positive-energy-032",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی در روزهای دشوار",
       "body": "مهربانی در روزهای دشوار؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 32,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 33,
+      "id": "positive-energy-033",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی با قدم‌های کوچک",
       "body": "مهربانی با قدم‌های کوچک؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 33,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 34,
+      "id": "positive-energy-034",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی در رابطه‌ها",
       "body": "مهربانی در رابطه‌ها؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 34,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 35,
+      "id": "positive-energy-035",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی با خودت",
       "body": "مهربانی با خودت؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 35,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 36,
+      "id": "positive-energy-036",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی در کارهای روزانه",
       "body": "مهربانی در کارهای روزانه؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 36,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 37,
+      "id": "positive-energy-037",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی هنگام تصمیم‌گیری",
       "body": "مهربانی هنگام تصمیم‌گیری؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 37,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 38,
+      "id": "positive-energy-038",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی پس از یک ناکامی",
       "body": "مهربانی پس از یک ناکامی؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 38,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 39,
+      "id": "positive-energy-039",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی در مسیر رشد",
       "body": "مهربانی در مسیر رشد؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 39,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 40,
+      "id": "positive-energy-040",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "مهربانی برای فردایی روشن",
       "body": "مهربانی برای فردایی روشن؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 40,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 41,
+      "id": "positive-energy-041",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی در آغاز روز",
       "body": "قدردانی در آغاز روز؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 41,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 42,
+      "id": "positive-energy-042",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی در روزهای دشوار",
       "body": "قدردانی در روزهای دشوار؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 42,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 43,
+      "id": "positive-energy-043",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی با قدم‌های کوچک",
       "body": "قدردانی با قدم‌های کوچک؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 43,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 44,
+      "id": "positive-energy-044",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی در رابطه‌ها",
       "body": "قدردانی در رابطه‌ها؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 44,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 45,
+      "id": "positive-energy-045",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی با خودت",
       "body": "قدردانی با خودت؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 45,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 46,
+      "id": "positive-energy-046",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی در کارهای روزانه",
       "body": "قدردانی در کارهای روزانه؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 46,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 47,
+      "id": "positive-energy-047",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی هنگام تصمیم‌گیری",
       "body": "قدردانی هنگام تصمیم‌گیری؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 47,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 48,
+      "id": "positive-energy-048",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی پس از یک ناکامی",
       "body": "قدردانی پس از یک ناکامی؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 48,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 49,
+      "id": "positive-energy-049",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی در مسیر رشد",
       "body": "قدردانی در مسیر رشد؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 49,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 50,
+      "id": "positive-energy-050",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "قدردانی برای فردایی روشن",
       "body": "قدردانی برای فردایی روشن؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 50,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 51,
+      "id": "positive-energy-051",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری در آغاز روز",
       "body": "یادگیری در آغاز روز؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 51,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 52,
+      "id": "positive-energy-052",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری در روزهای دشوار",
       "body": "یادگیری در روزهای دشوار؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 52,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 53,
+      "id": "positive-energy-053",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری با قدم‌های کوچک",
       "body": "یادگیری با قدم‌های کوچک؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 53,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 54,
+      "id": "positive-energy-054",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری در رابطه‌ها",
       "body": "یادگیری در رابطه‌ها؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 54,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 55,
+      "id": "positive-energy-055",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری با خودت",
       "body": "یادگیری با خودت؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 55,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 56,
+      "id": "positive-energy-056",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری در کارهای روزانه",
       "body": "یادگیری در کارهای روزانه؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 56,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 57,
+      "id": "positive-energy-057",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری هنگام تصمیم‌گیری",
       "body": "یادگیری هنگام تصمیم‌گیری؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 57,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 58,
+      "id": "positive-energy-058",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری پس از یک ناکامی",
       "body": "یادگیری پس از یک ناکامی؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 58,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 59,
+      "id": "positive-energy-059",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری در مسیر رشد",
       "body": "یادگیری در مسیر رشد؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 59,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 60,
+      "id": "positive-energy-060",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "یادگیری برای فردایی روشن",
       "body": "یادگیری برای فردایی روشن؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 60,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 61,
+      "id": "positive-energy-061",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز در آغاز روز",
       "body": "تمرکز در آغاز روز؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 61,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 62,
+      "id": "positive-energy-062",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز در روزهای دشوار",
       "body": "تمرکز در روزهای دشوار؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 62,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 63,
+      "id": "positive-energy-063",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز با قدم‌های کوچک",
       "body": "تمرکز با قدم‌های کوچک؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 63,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 64,
+      "id": "positive-energy-064",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز در رابطه‌ها",
       "body": "تمرکز در رابطه‌ها؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 64,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 65,
+      "id": "positive-energy-065",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز با خودت",
       "body": "تمرکز با خودت؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 65,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 66,
+      "id": "positive-energy-066",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز در کارهای روزانه",
       "body": "تمرکز در کارهای روزانه؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 66,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 67,
+      "id": "positive-energy-067",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز هنگام تصمیم‌گیری",
       "body": "تمرکز هنگام تصمیم‌گیری؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 67,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 68,
+      "id": "positive-energy-068",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز پس از یک ناکامی",
       "body": "تمرکز پس از یک ناکامی؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 68,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 69,
+      "id": "positive-energy-069",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز در مسیر رشد",
       "body": "تمرکز در مسیر رشد؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 69,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 70,
+      "id": "positive-energy-070",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "تمرکز برای فردایی روشن",
       "body": "تمرکز برای فردایی روشن؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 70,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 71,
+      "id": "positive-energy-071",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم در آغاز روز",
       "body": "نظم در آغاز روز؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 71,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 72,
+      "id": "positive-energy-072",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم در روزهای دشوار",
       "body": "نظم در روزهای دشوار؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 72,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 73,
+      "id": "positive-energy-073",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم با قدم‌های کوچک",
       "body": "نظم با قدم‌های کوچک؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 73,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 74,
+      "id": "positive-energy-074",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم در رابطه‌ها",
       "body": "نظم در رابطه‌ها؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 74,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 75,
+      "id": "positive-energy-075",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم با خودت",
       "body": "نظم با خودت؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 75,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 76,
+      "id": "positive-energy-076",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم در کارهای روزانه",
       "body": "نظم در کارهای روزانه؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 76,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 77,
+      "id": "positive-energy-077",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم هنگام تصمیم‌گیری",
       "body": "نظم هنگام تصمیم‌گیری؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 77,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 78,
+      "id": "positive-energy-078",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم پس از یک ناکامی",
       "body": "نظم پس از یک ناکامی؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 78,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 79,
+      "id": "positive-energy-079",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم در مسیر رشد",
       "body": "نظم در مسیر رشد؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 79,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 80,
+      "id": "positive-energy-080",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "نظم برای فردایی روشن",
       "body": "نظم برای فردایی روشن؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 80,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 81,
+      "id": "positive-energy-081",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس در آغاز روز",
       "body": "اعتمادبه‌نفس در آغاز روز؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 81,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 82,
+      "id": "positive-energy-082",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس در روزهای دشوار",
       "body": "اعتمادبه‌نفس در روزهای دشوار؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 82,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 83,
+      "id": "positive-energy-083",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس با قدم‌های کوچک",
       "body": "اعتمادبه‌نفس با قدم‌های کوچک؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 83,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 84,
+      "id": "positive-energy-084",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس در رابطه‌ها",
       "body": "اعتمادبه‌نفس در رابطه‌ها؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 84,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 85,
+      "id": "positive-energy-085",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس با خودت",
       "body": "اعتمادبه‌نفس با خودت؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 85,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 86,
+      "id": "positive-energy-086",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس در کارهای روزانه",
       "body": "اعتمادبه‌نفس در کارهای روزانه؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 86,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 87,
+      "id": "positive-energy-087",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس هنگام تصمیم‌گیری",
       "body": "اعتمادبه‌نفس هنگام تصمیم‌گیری؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 87,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 88,
+      "id": "positive-energy-088",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس پس از یک ناکامی",
       "body": "اعتمادبه‌نفس پس از یک ناکامی؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 88,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 89,
+      "id": "positive-energy-089",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس در مسیر رشد",
       "body": "اعتمادبه‌نفس در مسیر رشد؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 89,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 90,
+      "id": "positive-energy-090",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "اعتمادبه‌نفس برای فردایی روشن",
       "body": "اعتمادبه‌نفس برای فردایی روشن؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 90,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 91,
+      "id": "positive-energy-091",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی در آغاز روز",
       "body": "شادمانی در آغاز روز؛ برای خودت و دیگران با احترام و واقع‌بینی حرف بزن؛ تشویق صادقانه و درخواست روشن از فشار ذهنی می‌کاهد. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 91,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 92,
+      "id": "positive-energy-092",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی در روزهای دشوار",
       "body": "شادمانی در روزهای دشوار؛ یک کار کوتاه را همین حالا انجام بده و پس از پایان، چند لحظه به حس پیشرفت توجه کن؛ استمرار از همین تجربه‌ها ساخته می‌شود. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 92,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 93,
+      "id": "positive-energy-093",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی با قدم‌های کوچک",
       "body": "شادمانی با قدم‌های کوچک؛ اگر روش فعلی مؤثر نیست، روش را تغییر بده نه اینکه ارزش هدفت را نادیده بگیری؛ انعطاف بخشی از پشتکار است. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 93,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 94,
+      "id": "positive-energy-094",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی در رابطه‌ها",
       "body": "شادمانی در رابطه‌ها؛ یک موقعیت واقعی از امروز انتخاب کن و ببین چه بخش کوچکی از آن در اختیار توست؛ همان بخش را با یک اقدام مشخص بهتر کن. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 94,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 95,
+      "id": "positive-energy-095",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی با خودت",
       "body": "شادمانی با خودت؛ چند دقیقه مکث کن، مسئله را روی کاغذ بنویس و فقط نخستین گام شدنی را مشخص کن؛ لازم نیست همه مسیر همین حالا روشن باشد. پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 95,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 96,
+      "id": "positive-energy-096",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی در کارهای روزانه",
       "body": "شادمانی در کارهای روزانه؛ یک رفتار ساده و قابل اندازه‌گیری برای خودت تعیین کن و زمان انجامش را مشخص کن تا نیت خوب به عمل تبدیل شود. اگر لغزیدی، بدون ناامیدی به قدم بعدی برگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 96,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 97,
+      "id": "positive-energy-097",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی هنگام تصمیم‌گیری",
       "body": "شادمانی هنگام تصمیم‌گیری؛ از تجربه‌ای که پشت سر گذاشته‌ای یک درس کاربردی بیرون بکش و بنویس دفعه بعد چه کاری را متفاوت انجام می‌دهی. به یاد داشته باش تغییر پایدار با تکرار آرام شکل می‌گیرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 97,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 98,
+      "id": "positive-energy-098",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی پس از یک ناکامی",
       "body": "شادمانی پس از یک ناکامی؛ با فردی قابل اعتماد گفت‌وگو کن، بازخوردش را بشنو و تصمیم نهایی را با توجه به شرایط و ارزش‌های خودت بگیر. با خودت مهربان باش و برای تلاش امروزت ارزش قائل شو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 98,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 99,
+      "id": "positive-energy-099",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی در مسیر رشد",
       "body": "شادمانی در مسیر رشد؛ یک مانع کوچک را از محیطت بردار؛ آماده‌سازی فضا، خاموش کردن اعلان‌ها یا مرتب کردن وسایل شروع را آسان‌تر می‌کند. امروز را فرصتی برای یک انتخاب آگاهانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 99,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     },
     {
-      "sequence": 100,
+      "id": "positive-energy-100",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
       "title": "شادمانی برای فردایی روشن",
       "body": "شادمانی برای فردایی روشن؛ در پایان روز نتیجه را بدون سرزنش بررسی کن: چه چیزی پیش رفت، چه چیزی نیاز به اصلاح دارد و قدم بعدی چیست؟ پیشرفت را با گذشته خودت بسنج، نه با مسیر دیگران.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 100,
+        "subcategory": "انرژی مثبت و انگیزه روز",
+        "is_published": false
+      },
       "is_published": false
     }
   ]
