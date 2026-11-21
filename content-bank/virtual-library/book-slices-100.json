@@ -1,0 +1,1607 @@
+{
+  "category_id": 4,
+  "subcategory_id": 15,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "book-slice-001",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 001",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 1,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-002",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 002",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 2,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-003",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 003",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 3,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-004",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 004",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 4,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-005",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 005",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 5,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-006",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 006",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 6,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-007",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 007",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 7,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-008",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 008",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 8,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-009",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 009",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 9,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-010",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ خواندن با پرسش 010",
+      "body": "کتاب را فقط برای تمام‌کردن صفحه‌ها نخوان؛ پرسشی همراه خودت داشته باش تا نکته‌های مهم را فعالانه پیدا کنی. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 10,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-011",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 011",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 11,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-012",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 012",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 12,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-013",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 013",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 13,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-014",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 014",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 14,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-015",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 015",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 15,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-016",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 016",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 16,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-017",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 017",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 17,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-018",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 018",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 18,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-019",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 019",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 19,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-020",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ یادداشت‌برداری 020",
+      "body": "پس از هر بخش، برداشت خودت را با چند جمله بنویس؛ بازنویسی شخصی از رونویسی طولانی ماندگارتر است. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 20,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-021",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 021",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 21,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-022",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 022",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 22,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-023",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 023",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 23,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-024",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 024",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 24,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-025",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 025",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 25,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-026",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 026",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 26,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-027",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 027",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 27,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-028",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 028",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 28,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-029",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 029",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 29,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-030",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ انتخاب کتاب 030",
+      "body": "پیش از شروع، موضوع و سطح دشواری کتاب را بررسی کن تا با نیاز و زمانت تناسب داشته باشد. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 30,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-031",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 031",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 31,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-032",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 032",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 32,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-033",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 033",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 33,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-034",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 034",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 34,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-035",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 035",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 35,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-036",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 036",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 36,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-037",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 037",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 37,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-038",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 038",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 38,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-039",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 039",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 39,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-040",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ گفت‌وگو درباره کتاب 040",
+      "body": "یک ایده از مطالعه‌ات را با دوستی در میان بگذار و به برداشت متفاوت او هم فرصت شنیده‌شدن بده. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 40,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-041",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 041",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 41,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-042",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 042",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 42,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-043",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 043",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 43,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-044",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 044",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 44,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-045",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 045",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 45,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-046",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 046",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 46,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-047",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 047",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 47,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-048",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 048",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 48,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-049",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 049",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 49,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-050",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه پیوسته 050",
+      "body": "زمانی کوتاه اما ثابت برای خواندن انتخاب کن؛ استمرار آرام معمولاً از برنامه سنگین و ناپایدار نتیجه‌بخش‌تر است. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 50,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-051",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 051",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 51,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-052",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 052",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 52,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-053",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 053",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 53,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-054",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 054",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 54,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-055",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 055",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 55,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-056",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 056",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 56,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-057",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 057",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 57,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-058",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 058",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 58,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-059",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 059",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 59,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-060",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ سنجش ادعاها 060",
+      "body": "میان نظر نویسنده، داده و مثال تفاوت بگذار و برای ادعاهای مهم دنبال شواهد مستقل باش. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 60,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-061",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 061",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 61,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-062",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 062",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 62,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-063",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 063",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 63,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-064",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 064",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 64,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-065",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 065",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 65,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-066",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 066",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 66,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-067",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 067",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 67,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-068",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 068",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 68,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-069",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 069",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 69,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-070",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ کاربرد آموخته‌ها 070",
+      "body": "از هر فصل فقط یک ایده انتخاب کن و برای آزمودنش در زندگی روزمره قدمی کوچک بردار. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 70,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-071",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 071",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 71,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-072",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 072",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 72,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-073",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 073",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 73,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-074",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 074",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 74,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-075",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 075",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 75,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-076",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 076",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 76,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-077",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 077",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 77,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-078",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 078",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 78,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-079",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 079",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 79,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-080",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ بازخوانی 080",
+      "body": "پس از چند روز به یادداشت‌ها برگرد و ببین کدام ایده هنوز برایت معنا دارد و چرا. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 80,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-081",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 081",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 81,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-082",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 082",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 82,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-083",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 083",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 83,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-084",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 084",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 84,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-085",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 085",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 85,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-086",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 086",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 86,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-087",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 087",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 87,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-088",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 088",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 88,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-089",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 089",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 89,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-090",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ مطالعه خانوادگی 090",
+      "body": "زمانی کوتاه برای خواندن مشترک در خانواده بساز و اجازه بده هرکس برداشت خودش را بیان کند. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 90,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-091",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 091",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. امروز این پیشنهاد را در یک نوبت مطالعه امتحان کن و نتیجه را در دفترت ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 91,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-092",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 092",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. یک جمله از برداشت خودت بنویس؛ لازم نیست متن کتاب را عیناً نقل کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 92,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-093",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 093",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. از خودت بپرس این ایده کدام رفتار یا باور روزمره‌ات را به چالش می‌کشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 93,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-094",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 094",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. نکته را برای کسی توضیح بده؛ اگر نتوانستی ساده بیانش کنی، دوباره آن بخش را مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 94,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-095",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 095",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. یک نمونه واقعی برای این موضوع پیدا کن تا مفهوم از حالت انتزاعی بیرون بیاید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 95,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-096",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 096",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. برای اجرای این روش، زمان و مکان مشخصی در برنامه هفته‌ات تعیین کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 96,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-097",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 097",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. یک پرسش انتقادی درباره این ایده بنویس و برای پاسخ آن دنبال منبع معتبر بگرد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 97,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-098",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 098",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. آنچه آموخته‌ای با تجربه شخصی خودت مقایسه کن و تفاوت‌ها را منصفانه ببین.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 98,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-099",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 099",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. یک اقدام کوچک انتخاب کن که بتوانی اثر آن را تا پایان هفته ارزیابی کنی.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 99,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "book-slice-100",
+      "category_id": 4,
+      "subcategory_id": 15,
+      "content_type": "reading_reflection",
+      "title": "یک قاچ کتاب؛ پایان‌دادن آگاهانه 100",
+      "body": "اگر کتابی با نیاز فعلی‌ات سازگار نیست، دلیل کنارگذاشتنش را بررسی کن و بدون احساس گناه انتخاب مناسب‌تری بردار. در پایان مطالعه، مهم‌ترین نکته را در یک جمله با زبان خودت خلاصه کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 100,
+        "subcategory": "یک قاچ کتاب",
+        "content_note": "یادداشت و تأمل تألیفی؛ نقل مستقیم از کتاب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
