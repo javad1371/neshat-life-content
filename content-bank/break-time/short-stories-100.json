@@ -1,0 +1,1607 @@
+{
+  "category_id": 3,
+  "subcategory_id": 12,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "dastanak-001",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 001؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 1,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-002",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 002؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 2,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-003",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 003؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 3,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-004",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 004؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 4,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-005",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 005؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 5,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-006",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 006؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 6,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-007",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 007؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 7,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-008",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 008؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 8,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-009",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 009؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 9,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-010",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 010؛ کتابدار محله",
+      "body": "کتابدار هر روز کتابی را برای نوجوانی کنار می‌گذاشت که خجالت می‌کشید درخواست کند. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 10,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-011",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 011؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 11,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-012",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 012؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 12,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-013",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 013؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 13,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-014",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 014؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 14,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-015",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 015؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 15,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-016",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 016؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 16,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-017",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 017؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 17,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-018",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 018؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 18,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-019",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 019؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 19,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-020",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 020؛ باغبان پیر",
+      "body": "باغبان پیر نهال کوچکی کاشت، با اینکه می‌دانست شاید سال‌ها بعد سایه‌اش به کار دیگری بیاید. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 20,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-021",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 021؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 21,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-022",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 022؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 22,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-023",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 023؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 23,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-024",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 024؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 24,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-025",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 025؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 25,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-026",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 026؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 26,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-027",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 027؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 27,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-028",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 028؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 28,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-029",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 029؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 29,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-030",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 030؛ راننده اتوبوس",
+      "body": "راننده اتوبوس متوجه شد مسافری هر روز با نگرانی سوار می‌شود و با یک سلام گرم آغاز کرد. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 30,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-031",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 031؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 31,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-032",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 032؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 32,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-033",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 033؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 33,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-034",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 034؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 34,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-035",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 035؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 35,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-036",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 036؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 36,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-037",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 037؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 37,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-038",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 038؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 38,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-039",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 039؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 39,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-040",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 040؛ دانش‌آموز تازه‌وارد",
+      "body": "دانش‌آموز تازه‌وارد در حیاط تنها ایستاده بود و همکلاسی‌اش جای خالی کنار خود را نشان داد. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 40,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-041",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 041؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 41,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-042",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 042؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 42,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-043",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 043؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 43,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-044",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 044؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 44,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-045",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 045؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 45,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-046",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 046؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 46,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-047",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 047؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 47,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-048",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 048؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 48,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-049",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 049؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 49,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-050",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 050؛ مادر خسته",
+      "body": "مادر خسته فهرست کارهای خانه را دید و تصمیم گرفت این بار از اعضای خانواده کمک بخواهد. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 50,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-051",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 051؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 51,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-052",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 052؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 52,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-053",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 053؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 53,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-054",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 054؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 54,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-055",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 055؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 55,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-056",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 056؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 56,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-057",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 057؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 57,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-058",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 058؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 58,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-059",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 059؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 59,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-060",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 060؛ کاسب منصف",
+      "body": "کاسب متوجه شد پول اضافه‌ای در حساب مشتری مانده و پیش از آنکه مشتری برگردد، صدایش زد. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 60,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-061",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 061؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 61,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-062",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 062؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 62,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-063",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 063؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 63,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-064",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 064؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 64,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-065",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 065؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 65,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-066",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 066؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 66,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-067",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 067؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 67,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-068",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 068؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 68,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-069",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 069؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 69,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-070",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 070؛ دو دوست",
+      "body": "دو دوست پس از یک سوءتفاهم، به جای پیام‌های تند، قرار گذاشتند رو در رو حرف بزنند. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 70,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-071",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 071؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 71,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-072",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 072؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 72,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-073",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 073؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 73,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-074",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 074؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 74,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-075",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 075؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 75,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-076",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 076؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 76,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-077",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 077؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 77,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-078",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 078؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 78,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-079",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 079؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 79,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-080",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 080؛ کارمند تازه‌کار",
+      "body": "کارمند تازه‌کار اشتباهی در گزارش دید و به جای پنهان‌کردن آن، مسئولانه موضوع را گفت. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 80,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-081",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 081؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 81,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-082",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 082؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 82,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-083",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 083؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 83,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-084",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 084؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 84,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-085",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 085؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 85,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-086",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 086؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 86,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-087",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 087؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 87,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-088",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 088؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 88,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-089",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 089؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 89,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-090",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 090؛ همسایه سالخورده",
+      "body": "همسایه سالخورده بسته‌ای سنگین در دست داشت و نوجوانی پیشنهاد کرد تا دم خانه همراهی‌اش کند. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 90,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-091",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 091؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. آن روز فهمید کارهای کوچک، اگر از دل توجه بیایند، می‌توانند روز کسی را روشن کنند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 91,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-092",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 092؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. هیچ‌کس تشویقش نکرد، اما آرامشی که در دلش نشست برایش کافی بود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 92,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-093",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 093؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. از آن پس تصمیم گرفت پیش از قضاوت، یک سؤال بیشتر بپرسد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 93,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-094",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 094؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. نتیجه فوری نبود؛ بااین‌حال، همان قدم نخست راهی تازه باز کرد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 94,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-095",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 095؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. وقتی شب به خانه برگشت، دید خودش هم از این رفتار ساده چیزی آموخته است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 95,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-096",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 096؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. دیگری لبخند زد و گفت همین توجه کوتاه، خستگی روزش را کمتر کرده است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 96,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-097",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 097؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. ماجرا به او یادآوری کرد مسئولیت‌پذیری از پذیرفتن حقیقت آغاز می‌شود.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 97,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-098",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 098؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. دو طرف فهمیدند شنیدن کامل حرف یکدیگر، نیمی از راه حل اختلاف است.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 98,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-099",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 099؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. از آن روز، این رفتار کوچک به عادتی دلنشین تبدیل شد.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 99,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "dastanak-100",
+      "category_id": 3,
+      "subcategory_id": 12,
+      "content_type": "short_story",
+      "title": "داستانک 100؛ مسافر بارانی",
+      "body": "مسافری زیر باران دید چتری اضافه در ایستگاه置 مانده و آن را به نگهبان سپرد. شاید کسی نام آن لحظه را به خاطر نسپارد، اما اثر مهربانی در دل‌ها می‌ماند.",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 100,
+        "subcategory": "داستانک",
+        "genre": "داستانک تألیفی",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
