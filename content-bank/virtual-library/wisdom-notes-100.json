@@ -1,0 +1,1507 @@
+{
+  "category_id": 4,
+  "subcategory_id": 20,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "wisdom-notes-001",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 001",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 1,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-002",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 002",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 2,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-003",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 003",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 3,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-004",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 004",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 4,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-005",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 005",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 5,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-006",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 006",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 6,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-007",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 007",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 7,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-008",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 008",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 8,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-009",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 009",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 9,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-010",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "صبر و شکیبایی؛ تأمل 010",
+      "body": "صبر و شکیبایی: صبر به معنای بی‌عملی نیست؛ گاهی یعنی در زمان دشوار، واکنش عجولانه را کنار بگذاری و قدم درست را پیدا کنی. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 10,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-011",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 011",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 11,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-012",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 012",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 12,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-013",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 013",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 13,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-014",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 014",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 14,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-015",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 015",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 15,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-016",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 016",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 16,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-017",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 017",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 17,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-018",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 018",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 18,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-019",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 019",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 19,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-020",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "راستی و صداقت؛ تأمل 020",
+      "body": "راستی و صداقت: راست‌گویی را با مهربانی همراه کن؛ حقیقت را روشن بگو، اما برای تحقیر یا پیروزی در بحث از آن استفاده نکن. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 20,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-021",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 021",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 21,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-022",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 022",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 22,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-023",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 023",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 23,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-024",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 024",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 24,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-025",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 025",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 25,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-026",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 026",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 26,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-027",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 027",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 27,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-028",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 028",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 28,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-029",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 029",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 29,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-030",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "تواضع؛ تأمل 030",
+      "body": "تواضع: توانایی‌هایت را انکار نکن، اما برای آموختن از دیگران نیز آماده بمان؛ فروتنی با اعتمادبه‌نفس منافاتی ندارد. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 30,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-031",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 031",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 31,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-032",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 032",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 32,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-033",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 033",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 33,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-034",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 034",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 34,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-035",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 035",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 35,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-036",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 036",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 36,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-037",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 037",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 37,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-038",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 038",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 38,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-039",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 039",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 39,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-040",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "عدالت در قضاوت؛ تأمل 040",
+      "body": "عدالت در قضاوت: پیش از داوری، روایت طرف دیگر را هم بشنو و میان آنچه دیده‌ای و آنچه حدس زده‌ای تفاوت بگذار. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 40,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-041",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 041",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 41,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-042",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 042",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 42,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-043",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 043",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 43,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-044",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 044",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 44,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-045",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 045",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 45,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-046",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 046",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 46,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-047",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 047",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 47,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-048",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 048",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 48,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-049",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 049",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 49,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-050",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "ارزش زمان؛ تأمل 050",
+      "body": "ارزش زمان: زمانی که بی‌هدف می‌گذرد بازنمی‌گردد؛ بخشی از روز را آگاهانه به کاری اختصاص بده که برایت معنا دارد. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 50,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-051",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 051",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 51,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-052",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 052",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 52,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-053",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 053",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 53,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-054",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 054",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 54,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-055",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 055",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 55,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-056",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 056",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 56,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-057",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 057",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 57,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-058",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 058",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 58,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-059",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 059",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 59,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-060",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "خدمت به دیگران؛ تأمل 060",
+      "body": "خدمت به دیگران: کمک مؤثر همیشه بزرگ و پرهزینه نیست؛ گاهی شنیدن بی‌قضاوت یا انجام یک کار کوچک گرهی باز می‌کند. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 60,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-061",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 061",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 61,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-062",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 062",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 62,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-063",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 063",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 63,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-064",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 064",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 64,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-065",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 065",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 65,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-066",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 066",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 66,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-067",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 067",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 67,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-068",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 068",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 68,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-069",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 069",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 69,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-070",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امانت‌داری؛ تأمل 070",
+      "body": "امانت‌داری: امانت فقط مال نیست؛ وقت، اعتماد، راز و مسئولیتی که پذیرفته‌ای نیز امانت‌اند. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 70,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-071",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 071",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 71,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-072",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 072",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 72,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-073",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 073",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 73,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-074",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 074",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 74,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-075",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 075",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 75,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-076",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 076",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 76,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-077",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 077",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 77,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-078",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 078",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 78,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-079",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 079",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 79,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-080",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "دانایی و عمل؛ تأمل 080",
+      "body": "دانایی و عمل: دانسته‌ای که در رفتار اثر نگذارد هنوز به بخشی از زندگی تبدیل نشده است؛ یک آموخته را به تمرین روزانه بدل کن. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 80,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-081",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 081",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 81,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-082",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 082",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 82,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-083",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 083",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 83,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-084",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 084",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 84,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-085",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 085",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 85,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-086",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 086",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 86,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-087",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 087",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 87,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-088",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 088",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 88,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-089",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 089",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 89,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-090",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "گذشت و بخشش؛ تأمل 090",
+      "body": "گذشت و بخشش: گذشت می‌تواند دل را از کینه سبک کند؛ با این حال، بخشیدن به معنای نادیده‌گرفتن مرزهای ایمنی و حق دیگران نیست. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 90,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-091",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 091",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. برای تأمل، یک نمونه از زندگی خودت پیدا کن و بنویس این معنا در آن موقعیت چه تغییری ایجاد می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 91,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-092",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 092",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. امروز یک رفتار کوچک متناسب با این معنا انتخاب کن و در پایان روز اثر آن را بررسی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 92,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-093",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 093",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. این نکته را در گفت‌وگو با یکی از نزدیکانت مطرح کن و با احترام دیدگاه او را هم بشنو.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 93,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-094",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 094",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. اگر اجرای این اصل دشوار است، مانع واقعی را مشخص کن و راهی ساده‌تر برای شروع بیاب.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 94,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-095",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 095",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. به یاد بیاور چه زمانی رعایت این اصل به تو یا دیگری آرامش و اطمینان بخشیده است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 95,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-096",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 096",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. یک تصمیم پیش رو را با این معیار بسنج و پیامدهای انتخابت را پیش از اقدام مرور کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 96,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-097",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 097",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. این معنا را به یک جمله کوتاه تبدیل کن و در موقعیتی که به آن نیاز داری به خودت یادآوری کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 97,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-098",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 098",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. به جای انتظار برای تغییر دیگران، سهم خودت را در بهترشدن موقعیت پیدا کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 98,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-099",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 099",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. یک عادت ناسازگار با این اصل را شناسایی کن و برای کاهش آن یک گام عملی بردار.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 99,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "wisdom-notes-100",
+      "category_id": 4,
+      "subcategory_id": 20,
+      "content_type": "wisdom_note",
+      "title": "امید و توکل؛ تأمل 100",
+      "body": "امید و توکل: امید را با اقدام همراه کن؛ نتیجه همیشه در اختیار ما نیست، اما انتخاب قدم درست و تلاش مسئولانه در اختیار ماست. در پایان هفته بررسی کن کدام رفتار تو به این معنا نزدیک‌تر شده و چه چیزی هنوز نیازمند تمرین است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 100,
+        "subcategory": "جرعه‌ای از خرد",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
