@@ -1,0 +1,43 @@
+name: Content quality review
+on:
+  workflow_dispatch:
+    inputs:
+      batch_id:
+        description: "Supabase import batch UUID"
+        required: false
+        type: string
+  push:
+    branches: [main]
+    paths:
+      - "content-bank/**/*.json"
+      - "scripts/review-content.mjs"
+      - ".github/workflows/content-review.yml"
+  schedule:
+    - cron: "17 3 * * 1"
+permissions:
+  contents: read
+concurrency:
+  group: content-quality-review
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      CONTENT_IMPORT_BATCH_ID: ${{ inputs.batch_id || vars.CONTENT_IMPORT_BATCH_ID || '461df03a-f37a-45f1-80f8-d68c064ef33d' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Run read-only content audit
+        run: node scripts/review-content.mjs
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: content-review-${{ github.run_number }}
+          path: review-report/
+          if-no-files-found: error
+          retention-days: 30
