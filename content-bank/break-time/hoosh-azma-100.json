@@ -1,0 +1,1807 @@
+{
+  "category_id": 3,
+  "subcategory_id": 11,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "hoosh-azma-001",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 001؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 5، 8، 11، 14 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 17",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 1,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 5، 8، 11، 14 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "17",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-002",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 002؛ معمای عددی",
+      "body": "پرسش: حاصل 5 بستهٔ سه‌تایی به‌علاوهٔ 3 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 18",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 2,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 5 بستهٔ سه‌تایی به‌علاوهٔ 3 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "18",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-003",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 003؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 19 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 3",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 3,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 19 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "3",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-004",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 004؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 9:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 12:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 4,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 9:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "12:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-005",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 005؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 3 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 12",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 5,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 3 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "12",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-006",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 006؛ معمای عددی",
+      "body": "پرسش: از 105 صفحهٔ یک کتاب، 3 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 102",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 6,
+        "subcategory": "هوش‌آزما",
+        "question": "از 105 صفحهٔ یک کتاب، 3 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "102",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-007",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 007؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 5 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 15",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 7,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 5 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "15",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-008",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 008؛ معمای عددی",
+      "body": "پرسش: عدد 15 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 12.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 8,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 15 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "12.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-009",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 009؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 2 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 3 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 7",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 9,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 2 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 3 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "7",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-010",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 010؛ معمای عددی",
+      "body": "پرسش: اگر 3 جعبه هرکدام 4 مداد داشته باشند و 1 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 11",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 10,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 3 جعبه هرکدام 4 مداد داشته باشند و 1 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "11",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-011",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 011؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 8، 11، 14، 17 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 20",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 11,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 8، 11، 14، 17 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "20",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-012",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 012؛ معمای عددی",
+      "body": "پرسش: حاصل 8 بستهٔ سه‌تایی به‌علاوهٔ 5 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 29",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 12,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 8 بستهٔ سه‌تایی به‌علاوهٔ 5 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "29",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-013",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 013؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 23 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 4",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 13,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 23 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "4",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-014",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 014؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 10:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 13:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 14,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 10:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "13:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-015",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 015؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 4 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 16",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 15,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 4 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "16",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-016",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 016؛ معمای عددی",
+      "body": "پرسش: از 110 صفحهٔ یک کتاب، 6 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 104",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 16,
+        "subcategory": "هوش‌آزما",
+        "question": "از 110 صفحهٔ یک کتاب، 6 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "104",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-017",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 017؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 6 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 18",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 17,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 6 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "18",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-018",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 018؛ معمای عددی",
+      "body": "پرسش: عدد 25 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 17.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 18,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 25 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "17.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-019",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 019؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 3 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 4 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 10",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 19,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 3 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 4 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "10",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-020",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 020؛ معمای عددی",
+      "body": "پرسش: اگر 4 جعبه هرکدام 5 مداد داشته باشند و 2 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 18",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 20,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 4 جعبه هرکدام 5 مداد داشته باشند و 2 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "18",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-021",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 021؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 11، 14، 17، 20 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 23",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 21,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 11، 14، 17، 20 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "23",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-022",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 022؛ معمای عددی",
+      "body": "پرسش: حاصل 11 بستهٔ سه‌تایی به‌علاوهٔ 7 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 40",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 22,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 11 بستهٔ سه‌تایی به‌علاوهٔ 7 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "40",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-023",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 023؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 27 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 23,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 27 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-024",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 024؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 11:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 14:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 24,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 11:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "14:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-025",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 025؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 5 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 20",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 25,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 5 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "20",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-026",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 026؛ معمای عددی",
+      "body": "پرسش: از 115 صفحهٔ یک کتاب، 9 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 106",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 26,
+        "subcategory": "هوش‌آزما",
+        "question": "از 115 صفحهٔ یک کتاب، 9 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "106",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-027",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 027؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 7 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 21",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 27,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 7 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "21",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-028",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 028؛ معمای عددی",
+      "body": "پرسش: عدد 35 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 22.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 28,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 35 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "22.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-029",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 029؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 4 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 5 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 13",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 29,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 4 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 5 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "13",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-030",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 030؛ معمای عددی",
+      "body": "پرسش: اگر 5 جعبه هرکدام 6 مداد داشته باشند و 3 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 27",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 30,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 5 جعبه هرکدام 6 مداد داشته باشند و 3 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "27",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-031",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 031؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 14، 17، 20، 23 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 26",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 31,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 14، 17، 20، 23 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "26",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-032",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 032؛ معمای عددی",
+      "body": "پرسش: حاصل 14 بستهٔ سه‌تایی به‌علاوهٔ 9 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 51",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 32,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 14 بستهٔ سه‌تایی به‌علاوهٔ 9 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "51",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-033",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 033؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 31 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 6",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 33,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 31 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "6",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-034",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 034؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 12:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 15:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 34,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 12:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "15:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-035",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 035؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 6 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 24",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 35,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 6 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "24",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-036",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 036؛ معمای عددی",
+      "body": "پرسش: از 120 صفحهٔ یک کتاب، 12 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 108",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 36,
+        "subcategory": "هوش‌آزما",
+        "question": "از 120 صفحهٔ یک کتاب، 12 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "108",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-037",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 037؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 8 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 24",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 37,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 8 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "24",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-038",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 038؛ معمای عددی",
+      "body": "پرسش: عدد 45 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 27.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 38,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 45 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "27.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-039",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 039؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 5 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 6 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 16",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 39,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 5 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 6 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "16",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-040",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 040؛ معمای عددی",
+      "body": "پرسش: اگر 6 جعبه هرکدام 7 مداد داشته باشند و 4 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 38",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 40,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 6 جعبه هرکدام 7 مداد داشته باشند و 4 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "38",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-041",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 041؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 17، 20، 23، 26 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 29",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 41,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 17، 20، 23، 26 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "29",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-042",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 042؛ معمای عددی",
+      "body": "پرسش: حاصل 17 بستهٔ سه‌تایی به‌علاوهٔ 11 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 62",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 42,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 17 بستهٔ سه‌تایی به‌علاوهٔ 11 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "62",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-043",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 043؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 35 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 7",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 43,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 35 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "7",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-044",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 044؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 13:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 16:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 44,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 13:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "16:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-045",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 045؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 7 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 28",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 45,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 7 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "28",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-046",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 046؛ معمای عددی",
+      "body": "پرسش: از 125 صفحهٔ یک کتاب، 15 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 110",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 46,
+        "subcategory": "هوش‌آزما",
+        "question": "از 125 صفحهٔ یک کتاب، 15 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "110",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-047",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 047؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 9 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 27",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 47,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 9 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "27",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-048",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 048؛ معمای عددی",
+      "body": "پرسش: عدد 55 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 32.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 48,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 55 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "32.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-049",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 049؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 6 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 7 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 19",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 49,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 6 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 7 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "19",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-050",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 050؛ معمای عددی",
+      "body": "پرسش: اگر 7 جعبه هرکدام 8 مداد داشته باشند و 5 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 51",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 50,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 7 جعبه هرکدام 8 مداد داشته باشند و 5 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "51",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-051",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 051؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 20، 23، 26، 29 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 32",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 51,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 20، 23، 26، 29 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "32",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-052",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 052؛ معمای عددی",
+      "body": "پرسش: حاصل 20 بستهٔ سه‌تایی به‌علاوهٔ 13 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 73",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 52,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 20 بستهٔ سه‌تایی به‌علاوهٔ 13 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "73",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-053",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 053؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 39 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 8",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 53,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 39 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "8",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-054",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 054؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 14:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 17:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 54,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 14:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "17:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-055",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 055؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 8 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 32",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 55,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 8 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "32",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-056",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 056؛ معمای عددی",
+      "body": "پرسش: از 130 صفحهٔ یک کتاب، 18 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 112",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 56,
+        "subcategory": "هوش‌آزما",
+        "question": "از 130 صفحهٔ یک کتاب، 18 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "112",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-057",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 057؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 10 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 57,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 10 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-058",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 058؛ معمای عددی",
+      "body": "پرسش: عدد 65 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 37.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 58,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 65 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "37.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-059",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 059؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 7 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 8 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 22",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 59,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 7 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 8 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "22",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-060",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 060؛ معمای عددی",
+      "body": "پرسش: اگر 8 جعبه هرکدام 9 مداد داشته باشند و 6 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 66",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 60,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 8 جعبه هرکدام 9 مداد داشته باشند و 6 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "66",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-061",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 061؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 23، 26، 29، 32 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 35",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 61,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 23، 26، 29، 32 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "35",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-062",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 062؛ معمای عددی",
+      "body": "پرسش: حاصل 23 بستهٔ سه‌تایی به‌علاوهٔ 15 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 84",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 62,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 23 بستهٔ سه‌تایی به‌علاوهٔ 15 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "84",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-063",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 063؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 43 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 9",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 63,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 43 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "9",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-064",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 064؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 15:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 18:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 64,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 15:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "18:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-065",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 065؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 9 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 36",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 65,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 9 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "36",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-066",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 066؛ معمای عددی",
+      "body": "پرسش: از 135 صفحهٔ یک کتاب، 21 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 114",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 66,
+        "subcategory": "هوش‌آزما",
+        "question": "از 135 صفحهٔ یک کتاب، 21 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "114",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-067",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 067؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 11 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 33",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 67,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 11 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "33",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-068",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 068؛ معمای عددی",
+      "body": "پرسش: عدد 75 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 42.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 68,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 75 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "42.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-069",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 069؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 8 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 9 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 25",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 69,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 8 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 9 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "25",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-070",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 070؛ معمای عددی",
+      "body": "پرسش: اگر 9 جعبه هرکدام 10 مداد داشته باشند و 7 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 83",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 70,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 9 جعبه هرکدام 10 مداد داشته باشند و 7 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "83",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-071",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 071؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 26، 29، 32، 35 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 38",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 71,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 26، 29، 32، 35 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "38",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-072",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 072؛ معمای عددی",
+      "body": "پرسش: حاصل 26 بستهٔ سه‌تایی به‌علاوهٔ 17 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 95",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 72,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 26 بستهٔ سه‌تایی به‌علاوهٔ 17 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "95",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-073",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 073؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 47 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 10",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 73,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 47 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "10",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-074",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 074؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 16:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 19:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 74,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 16:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "19:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-075",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 075؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 10 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 40",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 75,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 10 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "40",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-076",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 076؛ معمای عددی",
+      "body": "پرسش: از 140 صفحهٔ یک کتاب، 24 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 116",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 76,
+        "subcategory": "هوش‌آزما",
+        "question": "از 140 صفحهٔ یک کتاب، 24 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "116",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-077",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 077؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 12 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 36",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 77,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 12 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "36",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-078",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 078؛ معمای عددی",
+      "body": "پرسش: عدد 85 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 47.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 78,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 85 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "47.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-079",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 079؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 9 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 10 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 28",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 79,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 9 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 10 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "28",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-080",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 080؛ معمای عددی",
+      "body": "پرسش: اگر 10 جعبه هرکدام 11 مداد داشته باشند و 8 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 102",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 80,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 10 جعبه هرکدام 11 مداد داشته باشند و 8 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "102",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-081",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 081؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 29، 32، 35، 38 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 41",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 81,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 29، 32، 35، 38 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "41",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-082",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 082؛ معمای عددی",
+      "body": "پرسش: حاصل 29 بستهٔ سه‌تایی به‌علاوهٔ 19 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 106",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 82,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 29 بستهٔ سه‌تایی به‌علاوهٔ 19 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "106",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-083",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 083؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 51 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 11",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 83,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 51 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "11",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-084",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 084؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 17:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 20:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 84,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 17:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "20:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-085",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 085؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 11 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 44",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 85,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 11 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "44",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-086",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 086؛ معمای عددی",
+      "body": "پرسش: از 145 صفحهٔ یک کتاب، 27 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 118",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 86,
+        "subcategory": "هوش‌آزما",
+        "question": "از 145 صفحهٔ یک کتاب، 27 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "118",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-087",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 087؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 13 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 39",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 87,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 13 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "39",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-088",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 088؛ معمای عددی",
+      "body": "پرسش: عدد 95 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 52.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 88,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 95 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "52.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-089",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 089؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 10 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 11 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 31",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 89,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 10 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 11 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "31",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-090",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 090؛ معمای عددی",
+      "body": "پرسش: اگر 11 جعبه هرکدام 12 مداد داشته باشند و 9 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 123",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 90,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 11 جعبه هرکدام 12 مداد داشته باشند و 9 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "123",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-091",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 091؛ معمای عددی",
+      "body": "پرسش: اگر دنبالهٔ 32، 35، 38، 41 ادامه پیدا کند، عدد بعدی چیست؟\nراهنما: اختلاف دو جملهٔ پیاپی را پیدا کن.\nپاسخ: 44",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 91,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر دنبالهٔ 32، 35، 38، 41 ادامه پیدا کند، عدد بعدی چیست؟",
+        "hint": "اختلاف دو جملهٔ پیاپی را پیدا کن.",
+        "answer": "44",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-092",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 092؛ معمای عددی",
+      "body": "پرسش: حاصل 32 بستهٔ سه‌تایی به‌علاوهٔ 21 واحد چند می‌شود؟\nراهنما: ابتدا تعداد بسته‌ها را در سه ضرب کن.\nپاسخ: 117",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 92,
+        "subcategory": "هوش‌آزما",
+        "question": "حاصل 32 بستهٔ سه‌تایی به‌علاوهٔ 21 واحد چند می‌شود؟",
+        "hint": "ابتدا تعداد بسته‌ها را در سه ضرب کن.",
+        "answer": "117",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-093",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 093؛ معمای عددی",
+      "body": "پرسش: عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 55 باشد، عدد نخست چیست؟\nراهنما: ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.\nپاسخ: 12",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 93,
+        "subcategory": "هوش‌آزما",
+        "question": "عددی را در ۴ ضرب کرده‌ایم و ۷ واحد به آن افزوده‌ایم؛ اگر حاصل 55 باشد، عدد نخست چیست؟",
+        "hint": "ابتدا ۷ را کم کن و سپس بر ۴ تقسیم کن.",
+        "answer": "12",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-094",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 094؛ معمای عددی",
+      "body": "پرسش: اگر ساعت 18:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟\nراهنما: سه ساعت کامل جلو برو و نیم ساعت اضافه کن.\nپاسخ: 21:30",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 94,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر ساعت 18:00 باشد، سه ساعت و نیم بعد چه ساعتی است؟",
+        "hint": "سه ساعت کامل جلو برو و نیم ساعت اضافه کن.",
+        "answer": "21:30",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-095",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 095؛ معمای عددی",
+      "body": "پرسش: محیط مربعی با ضلع 12 سانتی‌متر چند سانتی‌متر است؟\nراهنما: محیط مربع چهار برابر اندازهٔ ضلع است.\nپاسخ: 48",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 95,
+        "subcategory": "هوش‌آزما",
+        "question": "محیط مربعی با ضلع 12 سانتی‌متر چند سانتی‌متر است؟",
+        "hint": "محیط مربع چهار برابر اندازهٔ ضلع است.",
+        "answer": "48",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-096",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 096؛ معمای عددی",
+      "body": "پرسش: از 150 صفحهٔ یک کتاب، 30 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟\nراهنما: تعداد صفحه‌های خوانده‌شده را کم کن.\nپاسخ: 120",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 96,
+        "subcategory": "هوش‌آزما",
+        "question": "از 150 صفحهٔ یک کتاب، 30 صفحه خوانده‌ایم؛ چند صفحه باقی مانده است؟",
+        "hint": "تعداد صفحه‌های خوانده‌شده را کم کن.",
+        "answer": "120",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-097",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 097؛ معمای عددی",
+      "body": "پرسش: سه نفر هرکدام 14 مهره دارند؛ روی‌هم چند مهره دارند؟\nراهنما: تعداد مهره‌های یک نفر را در سه ضرب کن.\nپاسخ: 42",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 97,
+        "subcategory": "هوش‌آزما",
+        "question": "سه نفر هرکدام 14 مهره دارند؛ روی‌هم چند مهره دارند؟",
+        "hint": "تعداد مهره‌های یک نفر را در سه ضرب کن.",
+        "answer": "42",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-098",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 098؛ معمای عددی",
+      "body": "پرسش: عدد 105 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟\nراهنما: ترتیب عملیات را رعایت کن.\nپاسخ: 57.5",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 98,
+        "subcategory": "هوش‌آزما",
+        "question": "عدد 105 را نصف کنیم و سپس ۵ واحد بیفزاییم، پاسخ چیست؟",
+        "hint": "ترتیب عملیات را رعایت کن.",
+        "answer": "57.5",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-099",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 099؛ معمای عددی",
+      "body": "پرسش: در یک ردیف، هر بار 11 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 12 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟\nراهنما: از ردیف اول تا سوم دو بار افزایش داریم.\nپاسخ: 34",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 99,
+        "subcategory": "هوش‌آزما",
+        "question": "در یک ردیف، هر بار 11 صندلی به تعداد قبلی اضافه می‌شود. اگر ردیف اول 12 صندلی داشته باشد، ردیف سوم چند صندلی دارد؟",
+        "hint": "از ردیف اول تا سوم دو بار افزایش داریم.",
+        "answer": "34",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "hoosh-azma-100",
+      "category_id": 3,
+      "subcategory_id": 11,
+      "content_type": "logic_puzzle",
+      "title": "هوش‌آزما 100؛ معمای عددی",
+      "body": "پرسش: اگر 12 جعبه هرکدام 13 مداد داشته باشند و 10 مداد برداشته شود، چند مداد می‌ماند؟\nراهنما: ابتدا تعداد کل مدادها را حساب کن.\nپاسخ: 146",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 100,
+        "subcategory": "هوش‌آزما",
+        "question": "اگر 12 جعبه هرکدام 13 مداد داشته باشند و 10 مداد برداشته شود، چند مداد می‌ماند؟",
+        "hint": "ابتدا تعداد کل مدادها را حساب کن.",
+        "answer": "146",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
