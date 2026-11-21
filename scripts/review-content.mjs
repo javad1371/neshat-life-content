@@ -1,8 +1,8 @@
 import fs from "node:fs/promises";
 const projectUrl = process.env.SUPABASE_URL;
-const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+const serviceKey = process.env.SUPABASE_SECRET_KEY;
 const batchId = process.env.CONTENT_IMPORT_BATCH_ID || "461df03a-f37a-45f1-80f8-d68c064ef33d";
-if (!projectUrl || !serviceKey) throw new Error("Missing SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY.");
+if (!projectUrl || !serviceKey) throw new Error("Missing SUPABASE_URL or SUPABASE_SECRET_KEY.");
 const headers = { apikey: serviceKey, Authorization: "Bearer " + serviceKey };
 const rows = [];
 for (let offset = 0; ; offset += 500) {
