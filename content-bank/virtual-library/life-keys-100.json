@@ -1,0 +1,1507 @@
+{
+  "category_id": 4,
+  "subcategory_id": 19,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "life-keys-001",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 001",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 1,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-002",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 002",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 2,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-003",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 003",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 3,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-004",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 004",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 4,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-005",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 005",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 5,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-006",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 006",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 6,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-007",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 007",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 7,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-008",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 008",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 8,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-009",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 009",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 9,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-010",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "گوش‌دادن فعال؛ راهکار 010",
+      "body": "گوش‌دادن فعال: در گفت‌وگو، تلفن را کنار بگذار و با پرسیدن یک سؤال روشن نشان بده که می‌خواهی موضوع را بفهمی. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 10,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-011",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 011",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 11,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-012",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 012",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 12,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-013",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 013",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 13,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-014",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 014",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 14,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-015",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 015",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 15,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-016",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 016",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 16,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-017",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 017",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 17,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-018",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 018",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 18,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-019",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 019",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 19,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-020",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مرزبندی سالم؛ راهکار 020",
+      "body": "مرزبندی سالم: درخواست ناممکن را محترمانه و روشن رد کن و اگر می‌توانی جایگزین واقع‌بینانه پیشنهاد بده. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 20,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-021",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 021",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 21,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-022",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 022",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 22,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-023",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 023",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 23,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-024",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 024",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 24,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-025",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 025",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 25,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-026",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 026",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 26,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-027",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 027",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 27,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-028",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 028",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 28,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-029",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 029",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 29,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-030",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "حل مسئله؛ راهکار 030",
+      "body": "حل مسئله: مسئله را به واقعیت‌های قابل مشاهده تقسیم کن و از حدس‌زدن نیت دیگران فاصله بگیر. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 30,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-031",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 031",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 31,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-032",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 032",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 32,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-033",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 033",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 33,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-034",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 034",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 34,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-035",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 035",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 35,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-036",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 036",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 36,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-037",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 037",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 37,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-038",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 038",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 38,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-039",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 039",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 39,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-040",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مدیریت اختلاف؛ راهکار 040",
+      "body": "مدیریت اختلاف: به‌جای برچسب‌زدن، رفتار مشخص و اثر آن را توصیف کن و درباره راه‌حل حرف بزن. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 40,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-041",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 041",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 41,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-042",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 042",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 42,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-043",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 043",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 43,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-044",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 044",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 44,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-045",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 045",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 45,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-046",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 046",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 46,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-047",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 047",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 47,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-048",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 048",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 48,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-049",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 049",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 49,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-050",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "مسئولیت‌پذیری؛ راهکار 050",
+      "body": "مسئولیت‌پذیری: سهم خودت را در نتیجه بپذیر و برای جبران، یک اقدام روشن با زمان مشخص تعیین کن. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 50,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-051",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 051",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 51,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-052",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 052",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 52,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-053",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 053",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 53,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-054",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 054",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 54,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-055",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 055",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 55,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-056",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 056",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 56,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-057",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 057",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 57,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-058",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 058",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 58,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-059",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 059",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 59,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-060",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "قدردانی؛ راهکار 060",
+      "body": "قدردانی: قدردانی را دقیق بیان کن؛ بگو کدام رفتار طرف مقابل چه کمکی به تو کرده است. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 60,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-061",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 061",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 61,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-062",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 062",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 62,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-063",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 063",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 63,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-064",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 064",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 64,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-065",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 065",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 65,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-066",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 066",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 66,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-067",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 067",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 67,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-068",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 068",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 68,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-069",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 069",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 69,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-070",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تصمیم‌گیری؛ راهکار 070",
+      "body": "تصمیم‌گیری: گزینه‌ها را با معیارهای مهم خودت مقایسه کن و پیامد کوتاه‌مدت و بلندمدت هرکدام را بنویس. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 70,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-071",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 071",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 71,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-072",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 072",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 72,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-073",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 073",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 73,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-074",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 074",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 74,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-075",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 075",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 75,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-076",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 076",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 76,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-077",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 077",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 77,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-078",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 078",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 78,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-079",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 079",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 79,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-080",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "تاب‌آوری؛ راهکار 080",
+      "body": "تاب‌آوری: پس از ناکامی، به خودت فرصت آرام‌شدن بده و سپس از تجربه یک نکته قابل استفاده استخراج کن. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 80,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-081",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 081",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 81,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-082",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 082",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 82,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-083",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 083",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 83,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-084",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 084",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 84,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-085",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 085",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 85,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-086",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 086",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 86,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-087",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 087",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 87,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-088",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 088",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 88,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-089",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 089",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 89,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-090",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "اعتمادسازی؛ راهکار 090",
+      "body": "اعتمادسازی: به قول‌های کوچک و قابل انجام پایبند بمان؛ اعتماد بیشتر از رفتارهای تکرارشونده ساخته می‌شود. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 90,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-091",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 091",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. این کار را در یک موقعیت واقعی همین هفته تمرین کن و نتیجه را یادداشت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 91,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-092",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 092",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. پیش از واکنش، سه نفس آرام بکش و جمله‌ای انتخاب کن که مسئله را روشن کند، نه اینکه تنش را بیشتر کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 92,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-093",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 093",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. از خودت بپرس: چه چیزی در کنترل من است؟ انرژی را روی همان بخش متمرکز کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 93,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-094",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 094",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. یک نمونه موفق از گذشته را به یاد بیاور و ببین کدام رفتار قابل تکرار در آن نقش داشته است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 94,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-095",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 095",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. از فرد مقابل بخواه برداشت خودش را توضیح دهد؛ سپس درباره تفاوت نگاه‌ها گفت‌وگو کنید.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 95,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-096",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 096",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. برای اجرای تصمیم، اولین قدم را آن‌قدر کوچک کن که انجامش در برنامه امروز ممکن باشد.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 96,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-097",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 097",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. پس از انجام تمرین، به جای قضاوت کلی، یک نکته خوب و یک مورد قابل اصلاح ثبت کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 97,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-098",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 098",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. اگر شرایط تغییر کرد، هدف اصلی را نگه دار اما روش رسیدن به آن را بازبینی کن.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 98,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-099",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 099",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. موضوع را با زبان اول‌شخص بیان کن؛ از تجربه و نیاز خودت بگو و از متهم‌کردن بپرهیز.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 99,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "life-keys-100",
+      "category_id": 4,
+      "subcategory_id": 19,
+      "content_type": "life_skill",
+      "title": "رشد مستمر؛ راهکار 100",
+      "body": "رشد مستمر: برای یادگیری، بازه‌ای کوتاه و منظم تعیین کن و آموخته را در یک موقعیت واقعی به کار ببر. برای پیگیری، زمان مشخصی تعیین کن تا نیت خوب به برنامه‌ای عملی تبدیل شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 100,
+        "subcategory": "کلیدهای زندگی",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
