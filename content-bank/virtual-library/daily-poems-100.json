@@ -1,0 +1,1707 @@
+{
+  "category_id": 4,
+  "subcategory_id": 14,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "daily-poem-001",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 001؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 1,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-002",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 002؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 2,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-003",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 003؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 3,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-004",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 004؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 4,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-005",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 005؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 5,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-006",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 006؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 6,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-007",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 007؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 7,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-008",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 008؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 8,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-009",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 009؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 9,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-010",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 010؛ امید",
+      "body": "اگر شب از فراز پنجره آرام می‌گذرد، چراغ کوچک دل هنوز راه سحر را بلد است.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 10,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-011",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 011؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 11,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-012",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 012؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 12,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-013",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 013؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 13,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-014",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 014؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 14,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-015",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 015؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 15,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-016",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 016؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 16,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-017",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 017؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 17,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-018",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 018؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 18,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-019",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 019؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 19,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-020",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 020؛ مهر",
+      "body": "بهار از دست‌های مهربان آغاز می‌شود، از آن نگاه که غبار غم را کنار می‌زند.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 20,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-021",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 021؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 21,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-022",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 022؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 22,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-023",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 023؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 23,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-024",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 024؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 24,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-025",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 025؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 25,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-026",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 026؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 26,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-027",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 027؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 27,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-028",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 028؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 28,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-029",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 029؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 29,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-030",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 030؛ وطن",
+      "body": "خاک وطن به عطر تلاش مردمان زنده است، به هر قدم که برای آبادی‌اش برداشته می‌شود.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 30,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-031",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 031؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 31,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-032",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 032؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 32,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-033",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 033؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 33,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-034",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 034؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 34,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-035",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 035؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 35,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-036",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 036؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 36,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-037",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 037؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 37,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-038",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 038؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 38,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-039",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 039؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 39,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-040",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 040؛ دانایی",
+      "body": "کتاب پنجره‌ای رو به جهان نادیده است، بخوان تا افق از مرزهای دیروز فراتر رود.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 40,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-041",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 041؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 41,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-042",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 042؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 42,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-043",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 043؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 43,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-044",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 044؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 44,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-045",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 045؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 45,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-046",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 046؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 46,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-047",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 047؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 47,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-048",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 048؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 48,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-049",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 049؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 49,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-050",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 050؛ خانواده",
+      "body": "خانه فقط دیوار و سقف و پنجره نیست، خانه همان دل‌هایی‌ست که هوای هم دارند.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 50,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-051",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 051؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 51,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-052",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 052؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 52,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-053",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 053؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 53,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-054",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 054؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 54,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-055",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 055؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 55,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-056",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 056؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 56,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-057",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 057؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 57,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-058",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 058؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 58,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-059",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 059؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 59,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-060",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 060؛ طبیعت",
+      "body": "درخت با صبوری به آسمان سلام می‌کند، و ریشه در سکوت، قصه استواری می‌سراید.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 60,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-061",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 061؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 61,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-062",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 062؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 62,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-063",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 063؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 63,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-064",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 064؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 64,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-065",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 065؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 65,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-066",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 066؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 66,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-067",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 067؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 67,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-068",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 068؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 68,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-069",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 069؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 69,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-070",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 070؛ تلاش",
+      "body": "رهرو اگرچه خسته، قدمی دگر نهد، راه از اراده‌های کوچک روشن می‌شود.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 70,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-071",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 071؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 71,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-072",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 072؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 72,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-073",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 073؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 73,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-074",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 074؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 74,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-075",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 075؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 75,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-076",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 076؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 76,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-077",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 077؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 77,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-078",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 078؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 78,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-079",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 079؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 79,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-080",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 080؛ گذشت",
+      "body": "دل را به کینه‌های کهنه گره مزن، بگذار پنجره‌ای به سمت آرامش باز شود.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 80,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-081",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 081؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 81,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-082",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 082؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 82,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-083",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 083؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 83,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-084",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 084؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 84,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-085",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 085؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 85,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-086",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 086؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 86,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-087",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 087؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 87,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-088",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 088؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 88,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-089",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 089؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 89,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-090",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 090؛ سپاس",
+      "body": "هر صبح، سفره‌ای از نعمت است پیش رو، چشم سپاس، دانه‌های روشنش را می‌بیند.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 90,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-091",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 091؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nدر کوچه‌های خسته، صدای روشن فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 91,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-092",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 092؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nبهار از دل زمستان، دوباره جوانه می‌زند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 92,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-093",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 093؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nامید، نام دیگر برخاستن پس از زمین‌خوردن است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 93,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-094",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 094؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nمهربانی، بی‌صدا جهان را زیباتر می‌کند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 94,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-095",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 095؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nهر گام صادقانه، چراغی در مسیر فرداست.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 95,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-096",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 096؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nدل اگر به نور معنا سپرده شد، تنها نمی‌ماند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 96,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-097",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 097؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nاز قطره‌های کوچک، رودهای بزرگ پدید می‌آیند.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 97,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-098",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 098؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nسکوتِ پر از اندیشه، از هیاهوی بی‌ثمر بهتر است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 98,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-099",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 099؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nجهان به دست‌های روشن و نیت‌های پاک محتاج است.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 99,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "daily-poem-100",
+      "category_id": 4,
+      "subcategory_id": 14,
+      "content_type": "original_poem",
+      "title": "چکامه 100؛ خرد",
+      "body": "آن کس که پیش از سخن، لحظه‌ای درنگ کند، بسیار راه دشوار را آسان‌تر عبور می‌کند.\nفردا از همین انتخاب کوچک امروز آغاز می‌شود.",
+      "payload": {
+        "section": "کتابخانه مجازی",
+        "sequence": 100,
+        "subcategory": "چکامه روز",
+        "author": "سروده‌ای تألیفی برای نشاط زندگی",
+        "copyright": "original",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
