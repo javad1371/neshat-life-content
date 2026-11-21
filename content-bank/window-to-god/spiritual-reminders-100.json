@@ -1,0 +1,1607 @@
+{
+  "category_id": 2,
+  "subcategory_id": 6,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "spiritual-reminder-001",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 001",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 1,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-002",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 002",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 2,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-003",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 003",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 3,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-004",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 004",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 4,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-005",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 005",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 5,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-006",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 006",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 6,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-007",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 007",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 7,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-008",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 008",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 8,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-009",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 009",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 9,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-010",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نیت 010",
+      "body": "پیش از آغاز هر کار، لحظه‌ای از خودت بپرس برای چه آن را انجام می‌دهی؛ نیت روشن، مسیر عمل را معنادارتر می‌کند. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 10,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-011",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 011",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 11,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-012",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 012",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 12,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-013",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 013",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 13,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-014",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 014",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 14,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-015",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 015",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 15,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-016",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 016",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 16,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-017",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 017",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 17,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-018",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 018",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 18,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-019",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 019",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 19,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-020",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ حق‌الناس 020",
+      "body": "در حساب‌وکتاب زندگی، حق دیگران را کوچک نشمار؛ گاهی یک عذرخواهی یا بازگرداندن حقی، از ده‌ها سخن زیباتر است. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 20,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-021",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 021",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 21,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-022",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 022",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 22,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-023",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 023",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 23,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-024",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 024",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 24,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-025",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 025",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 25,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-026",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 026",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 26,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-027",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 027",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 27,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-028",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 028",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 28,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-029",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 029",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 29,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-030",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ زبان 030",
+      "body": "کلمه‌ای که می‌گویی می‌تواند باری از دل بردارد یا زخمی تازه بسازد؛ پیش از پاسخ، اثر سخنت را تصور کن. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 30,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-031",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 031",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 31,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-032",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 032",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 32,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-033",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 033",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 33,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-034",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 034",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 34,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-035",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 035",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 35,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-036",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 036",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 36,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-037",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 037",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 37,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-038",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 038",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 38,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-039",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 039",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 39,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-040",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ نماز و حضور قلب 040",
+      "body": "برای چند لحظه پیش از نماز، شتاب روز را کنار بگذار و با یادآوری اینکه در محضر خدا ایستاده‌ای، دلت را آماده کن. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 40,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-041",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 041",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 41,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-042",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 042",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 42,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-043",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 043",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 43,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-044",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 044",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 44,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-045",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 045",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 45,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-046",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 046",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 46,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-047",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 047",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 47,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-048",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 048",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 48,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-049",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 049",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 49,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-050",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ خدمت پنهان 050",
+      "body": "همه کارهای خوب نیازمند دیده‌شدن نیستند؛ گاهی ارزشمندترین خدمت همان است که بی‌نام و بی‌انتظار انجام می‌شود. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 50,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-051",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 051",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 51,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-052",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 052",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 52,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-053",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 053",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 53,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-054",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 054",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 54,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-055",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 055",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 55,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-056",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 056",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 56,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-057",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 057",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 57,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-058",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 058",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 58,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-059",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 059",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 59,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-060",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ توبه و بازگشت 060",
+      "body": "خطا پایان راه نیست؛ پذیرفتن مسئولیت، جبران تا حد توان و تصمیم برای اصلاح، معنای عملی بازگشت است. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 60,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-061",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 061",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 61,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-062",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 062",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 62,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-063",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 063",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 63,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-064",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 064",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 64,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-065",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 065",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 65,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-066",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 066",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 66,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-067",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 067",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 67,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-068",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 068",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 68,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-069",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 069",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 69,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-070",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ قناعت 070",
+      "body": "نعمت‌های موجود را ببین و در کنار تلاش برای پیشرفت، خودت را اسیر مقایسه بی‌پایان نکن. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 70,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-071",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 071",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 71,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-072",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 072",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 72,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-073",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 073",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 73,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-074",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 074",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 74,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-075",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 075",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 75,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-076",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 076",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 76,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-077",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 077",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 77,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-078",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 078",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 78,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-079",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 079",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 79,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-080",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ امانت 080",
+      "body": "اعتماد دیگران را سرمایه‌ای گران‌بها بدان؛ راز، مسئولیت و فرصتی که به تو سپرده‌اند، امانت‌اند. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 80,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-081",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 081",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 81,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-082",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 082",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 82,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-083",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 083",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 83,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-084",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 084",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 84,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-085",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 085",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 85,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-086",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 086",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 86,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-087",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 087",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 87,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-088",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 088",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 88,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-089",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 089",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 89,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-090",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ مهربانی 090",
+      "body": "در برخورد با دیگران، از خودت بپرس اگر جای او بودم، چه نوع رفتاری به من احساس احترام می‌داد؟ به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 90,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-091",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 091",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. امروز یک مصداق کوچک برای این معنا پیدا کن و آن را به رفتار تبدیل کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 91,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-092",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 092",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. این نکته را در یک تصمیم واقعی به کار ببر و نتیجه‌اش را با انصاف بسنج.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 92,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-093",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 093",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. اگر عمل به آن دشوار است، مانع را صادقانه نام ببر و قدمی کوچک برای رفعش بردار.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 93,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-094",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 094",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. یک بار در سکوت درباره سهم خودت در این موضوع فکر کن؛ بدون توجیه و بدون تحقیر خود.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 94,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-095",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 095",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. این معنا را با یک رفتار ساده به یکی از نزدیکانت نشان بده، نه فقط با حرف.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 95,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-096",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 096",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. از خودت بپرس کدام عادت روزانه با این ارزش هماهنگ نیست و چگونه می‌توانی اصلاحش کنی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 96,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-097",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 097",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. برای یادآوری آن، نشانه‌ای در برنامه امروزت قرار بده و شب نتیجه را مرور کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 97,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-098",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 098",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. اگر حقی از کسی بر گردنت مانده، راه جبران محترمانه و امن آن را بررسی کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 98,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-099",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 099",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. این اصل را معیار گفتار امروزت قرار بده؛ به‌ویژه وقتی خسته یا عصبانی هستی.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 99,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "spiritual-reminder-100",
+      "category_id": 2,
+      "subcategory_id": 6,
+      "content_type": "spiritual_reminder",
+      "title": "تلنگر معنوی؛ محاسبه نفس 100",
+      "body": "پایان روز چند دقیقه با خودت خلوت کن؛ نه برای سرزنش، بلکه برای دیدن یک نقطه قوت و یک زمینه اصلاح. به جای انتظار از دیگران، نخستین گام را از رفتار خودت آغاز کن.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 100,
+        "subcategory": "تلنگر معنوی امروز",
+        "attribution": "تأمل نویسنده؛ نقل‌قول منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
