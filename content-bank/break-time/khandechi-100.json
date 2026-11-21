@@ -1,0 +1,1607 @@
+{
+  "category_id": 3,
+  "subcategory_id": 17,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "khandechi-001",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 001؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 1,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-002",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 002؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 2,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-003",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 003؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 3,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-004",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 004؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 4,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-005",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 005؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 5,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-006",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 006؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 6,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-007",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 007؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 7,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-008",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 008؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 8,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-009",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 009؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 9,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-010",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 010؛ گفت‌وگوی بامزه",
+      "body": "دانش‌آموز به معلم گفت: «اگر تکلیف‌ها را با خط خوش بنویسم، نمره‌ام بیشتر می‌شود؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 10,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-011",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 011؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 11,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-012",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 012؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 12,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-013",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 013؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 13,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-014",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 014؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 14,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-015",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 015؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 15,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-016",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 016؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 16,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-017",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 017؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 17,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-018",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 018؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 18,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-019",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 019؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 19,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-020",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 020؛ گفت‌وگوی بامزه",
+      "body": "مشتری به کتاب‌فروش گفت: «کتابی دارید که آدم را یک‌شبه دانشمند کند؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 20,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-021",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 021؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 21,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-022",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 022؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 22,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-023",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 023؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 23,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-024",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 024؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 24,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-025",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 025؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 25,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-026",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 026؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 26,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-027",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 027؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 27,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-028",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 028؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 28,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-029",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 029؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 29,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-030",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 030؛ گفت‌وگوی بامزه",
+      "body": "دوست به دوستش گفت: «چرا ساعتت را پنج دقیقه جلو گذاشته‌ای؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 30,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-031",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 031؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 31,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-032",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 032؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 32,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-033",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 033؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 33,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-034",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 034؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 34,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-035",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 035؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 35,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-036",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 036؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 36,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-037",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 037؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 37,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-038",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 038؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 38,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-039",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 039؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 39,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-040",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 040؛ گفت‌وگوی بامزه",
+      "body": "مادر از فرزند پرسید: «اتاقت را مرتب کردی؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 40,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-041",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 041؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 41,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-042",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 042؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 42,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-043",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 043؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 43,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-044",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 044؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 44,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-045",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 045؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 45,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-046",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 046؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 46,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-047",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 047؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 47,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-048",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 048؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 48,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-049",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 049؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 49,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-050",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 050؛ گفت‌وگوی بامزه",
+      "body": "مسافر از راننده پرسید: «تا ایستگاه چند دقیقه مانده؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 50,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-051",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 051؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 51,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-052",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 052؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 52,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-053",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 053؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 53,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-054",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 054؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 54,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-055",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 055؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 55,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-056",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 056؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 56,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-057",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 057؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 57,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-058",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 058؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 58,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-059",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 059؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 59,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-060",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 060؛ گفت‌وگوی بامزه",
+      "body": "آشپز به شاگردش گفت: «چرا این‌قدر به قابلمه نگاه می‌کنی؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 60,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-061",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 061؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 61,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-062",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 062؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 62,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-063",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 063؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 63,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-064",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 064؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 64,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-065",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 065؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 65,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-066",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 066؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 66,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-067",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 067؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 67,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-068",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 068؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 68,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-069",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 069؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 69,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-070",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 070؛ گفت‌وگوی بامزه",
+      "body": "دوستش پرسید: «چرا دفترت همیشه تمیز و خالی است؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 70,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-071",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 071؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 71,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-072",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 072؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 72,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-073",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 073؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 73,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-074",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 074؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 74,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-075",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 075؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 75,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-076",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 076؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 76,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-077",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 077؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 77,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-078",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 078؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 78,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-079",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 079؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 79,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-080",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 080؛ گفت‌وگوی بامزه",
+      "body": "فروشنده گفت: «این کفش‌ها خیلی راحت‌اند؛ امتحانشان کن.»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 80,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-081",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 081؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 81,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-082",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 082؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 82,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-083",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 083؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 83,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-084",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 084؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 84,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-085",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 085؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 85,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-086",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 086؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 86,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-087",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 087؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 87,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-088",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 088؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 88,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-089",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 089؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 89,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-090",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 090؛ گفت‌وگوی بامزه",
+      "body": "معلم پرسید: «چرا جواب سؤال را ننوشتی؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 90,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-091",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 091؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: اول باید مطمئن شوم سؤال هم با خط خوش نوشته شده باشد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 91,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-092",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 092؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: بله، اما باید آن را یک‌شبه بخوانید؛ دانشمندشدن به خودتان بستگی دارد!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 92,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-093",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 093؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: برای اینکه وقتی دیر می‌رسم، ساعت هم کمتر ناراحتم کند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 93,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-094",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 094؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: بله؛ فقط وسایل را از روی زمین برداشتم و روی تخت گذاشتم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 94,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-095",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 095؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: اگر ترافیک اجازه بدهد، چند دقیقه؛ اگر نه، یک خاطره طولانی!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 95,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-096",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 096؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: منتظرم خودش بگوید غذا آماده است!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 96,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-097",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 097؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: چون هنوز دارم بهترین ایده‌ها را برای صفحه اول جمع می‌کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 97,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-098",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 098؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: پس اجازه بده اول چند قدم با آن‌ها راه بروم؛ شاید خودشان راه خانه را بلد باشند!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 98,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-099",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 099؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: جواب را می‌دانستم، ولی نمی‌خواستم کاغذ را از این همه دانایی خسته کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 99,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "khandechi-100",
+      "category_id": 3,
+      "subcategory_id": 17,
+      "content_type": "clean_joke",
+      "title": "خنده‌چی 100؛ گفت‌وگوی بامزه",
+      "body": "پدر گفت: «چرا هر بار می‌گویی از فردا شروع می‌کنم؟»\nگفت: چون فردا هنوز نرسیده؛ نمی‌خواهم قولم را زودتر از موعد خرج کنم!",
+      "payload": {
+        "section": "زنگ تفریح",
+        "sequence": 100,
+        "subcategory": "خنده‌چی",
+        "content_note": "طنز خانوادگی پاک و بدون تمسخر گروه‌ها",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
