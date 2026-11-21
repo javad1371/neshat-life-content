@@ -1,0 +1,1607 @@
+{
+  "category_id": 2,
+  "subcategory_id": 7,
+  "source_name": "بانک محتوای نشاط زندگی",
+  "items": [
+    {
+      "id": "heavenly-words-001",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 001 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 1,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-002",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 002 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 2,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-003",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 003 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 3,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-004",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 004 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 4,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-005",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 005 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 5,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-006",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 006 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 6,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-007",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 007 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 7,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-008",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 008 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 8,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-009",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 009 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 9,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-010",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 010 ـ نامه‌ای نانوشته",
+      "body": "در جیب لباس قدیمی، نامه‌ای پیدا شد که نویسنده‌اش از آرزوی آرامش برای مردم نوشته بود. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 10,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-011",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 011 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 11,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-012",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 012 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 12,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-013",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 013 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 13,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-014",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 014 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 14,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-015",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 015 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 15,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-016",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 016 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 16,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-017",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 017 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 17,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-018",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 018 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 18,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-019",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 019 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 19,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-020",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 020 ـ چراغ سنگر",
+      "body": "چراغ کوچکی در گوشه سنگر روشن بود؛ نگهبان آن را برای خواندن چند خط دعا روشن نگه می‌داشت. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 20,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-021",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 021 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 21,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-022",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 022 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 22,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-023",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 023 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 23,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-024",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 024 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 24,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-025",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 025 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 25,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-026",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 026 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 26,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-027",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 027 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 27,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-028",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 028 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 28,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-029",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 029 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 29,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-030",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 030 ـ سهم آخر",
+      "body": "جوان، آخرین تکه نان را به همراه خسته‌ترش داد و خودش به جرعه‌ای آب بسنده کرد. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 30,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-031",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 031 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 31,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-032",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 032 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 32,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-033",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 033 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 33,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-034",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 034 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 34,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-035",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 035 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 35,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-036",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 036 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 36,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-037",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 037 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 37,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-038",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 038 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 38,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-039",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 039 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 39,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-040",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 040 ـ نام روی دیوار",
+      "body": "روی دیوار مدرسه، نام کسانی نوشته شده بود که برای امنیت و آرامش دیگران از آسایش خود گذشته بودند. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 40,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-041",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 041 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 41,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-042",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 042 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 42,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-043",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 043 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 43,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-044",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 044 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 44,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-045",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 045 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 45,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-046",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 046 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 46,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-047",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 047 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 47,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-048",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 048 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 48,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-049",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 049 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 49,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-050",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 050 ـ بازگشت به خانه",
+      "body": "مرد پس از مأموریتی طولانی، نخستین خواسته‌اش دیدن لبخند خانواده بود. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 50,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-051",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 051 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 51,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-052",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 052 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 52,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-053",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 053 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 53,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-054",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 054 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 54,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-055",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 055 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 55,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-056",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 056 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 56,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-057",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 057 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 57,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-058",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 058 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 58,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-059",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 059 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 59,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-060",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 060 ـ قول مادر",
+      "body": "مادری به فرزندش گفته بود هرجا هستی، حرمت مردم و امید به خدا را فراموش نکن. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 60,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-061",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 061 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 61,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-062",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 062 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 62,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-063",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 063 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 63,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-064",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 064 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 64,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-065",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 065 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 65,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-066",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 066 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 66,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-067",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 067 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 67,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-068",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 068 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 68,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-069",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 069 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 69,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-070",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 070 ـ دوستی در سختی",
+      "body": "در روز دشوار، دو همراه بی‌آنکه از هم بپرسند چه کسی خسته‌تر است، بار کار را تقسیم کردند. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 70,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-071",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 071 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 71,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-072",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 072 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 72,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-073",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 073 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 73,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-074",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 074 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 74,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-075",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 075 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 75,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-076",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 076 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 76,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-077",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 077 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 77,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-078",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 078 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 78,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-079",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 079 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 79,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-080",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 080 ـ دفترچه کوچک",
+      "body": "در دفترچه‌ای ساده، کنار فهرست کارها نوشته شده بود: مراقب باش کسی از رفتار تو دلگیر نشود. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 80,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-081",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 081 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 81,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-082",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 082 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 82,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-083",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 083 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 83,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-084",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 084 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 84,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-085",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 085 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 85,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-086",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 086 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 86,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-087",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 087 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 87,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-088",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 088 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 88,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-089",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 089 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 89,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-090",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 090 ـ پنجره روشن",
+      "body": "همسایه هر شب چراغ ایوان را روشن می‌گذاشت تا رهگذران راه خانه را آسان‌تر پیدا کنند. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 90,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-091",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 091 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. این روایت یادآور می‌شود بزرگی همیشه در دیده‌شدن نیست؛ گاهی در انتخابی آرام و بی‌ادعاست.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 91,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-092",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 092 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. آن لحظه فهمید شجاعت، کنارآمدن با ترس و انجام مسئولیت درست است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 92,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-093",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 093 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. سال‌ها بعد، آن جمله در ذهنش ماند: امنیت و آرامش مردم، امانتی بزرگ است.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 93,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-094",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 094 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. کسی برایش دست نزد، اما اثر آن رفتار در خاطر همراهان باقی ماند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 94,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-095",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 095 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. قصه کوتاه بود، اما معنایش روشن: مهربانی در سختی ارزش بیشتری پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 95,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-096",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 096 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. از آن روز تصمیم گرفت در زندگی عادی نیز به اندازه توانش باری از دوش دیگران بردارد.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 96,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-097",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 097 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. این یاد، به او آموخت وفاداری در عمل‌های کوچک روزانه هم معنا پیدا می‌کند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 97,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-098",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 098 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. در پایان، همه به خانه برگشتند و قدر لحظه‌های آرام را بیشتر دانستند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 98,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-099",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 099 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. هیچ نامی بر آن کار نبود؛ تنها دل‌هایی بودند که آسوده‌تر شدند.",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 99,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    },
+    {
+      "id": "heavenly-words-100",
+      "category_id": 2,
+      "subcategory_id": 7,
+      "content_type": "literary_narrative",
+      "title": "از لب‌های آسمانی؛ روایت 100 ـ دست‌های بی‌ادعا",
+      "body": "پس از پایان کار، کسی نامش را نپرسید؛ فقط دیدند جای خالی یک خدمت بی‌صدا پر شده است. روایت به پایان رسید، اما پرسشی باقی گذاشت: سهم من برای آرامش دیگران چیست؟",
+      "payload": {
+        "section": "پنجره‌ای رو به خدا",
+        "sequence": 100,
+        "subcategory": "از لب‌های آسمانی",
+        "attribution": "روایت ادبی تألیفی؛ به شهید مشخصی منسوب نیست",
+        "is_published": false
+      },
+      "is_published": false
+    }
+  ]
+}
