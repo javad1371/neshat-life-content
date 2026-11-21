@@ -1578,6 +1578,38 @@
       "source_type": "original_editorial",
       "source_name": "تحریریه نشاط زندگی",
       "is_published": false
+    },
+    {
+      "id": "energy_base_099",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
+      "title": "بهترین پاسخ، یک قدم سازنده",
+      "body": "وقتی با مانعی روبه‌رو می‌شوی، پس از شناخت احساس و واقعیت، یک اقدام کوچک و مفید انتخاب کن؛ حرکت سنجیده از ماندن در سرزنش ثمربخش‌تر است.",
+      "payload": {
+        "sentence": "وقتی با مانعی روبه‌رو می‌شوی، پس از شناخت احساس و واقعیت، یک اقدام کوچک و مفید انتخاب کن؛ حرکت سنجیده از ماندن در سرزنش ثمربخش‌تر است.",
+        "authorOrSource": "تحریریه نشاط زندگی",
+        "theme": "اقدام سازنده"
+      },
+      "source_type": "original_editorial",
+      "source_name": "تحریریه نشاط زندگی",
+      "is_published": false
+    },
+    {
+      "id": "energy_base_100",
+      "category_id": 4,
+      "subcategory_id": 16,
+      "content_type": "positive_energy",
+      "title": "روشنایی را از خودت آغاز کن",
+      "body": "برای بهترشدن فضای اطرافت منتظر تغییر دیگران نمان؛ از رفتار خودت شروع کن و با انصاف، آرامش و مهربانی الگویی کوچک بساز.",
+      "payload": {
+        "sentence": "برای بهترشدن فضای اطرافت منتظر تغییر دیگران نمان؛ از رفتار خودت شروع کن و با انصاف، آرامش و مهربانی الگویی کوچک بساز.",
+        "authorOrSource": "تحریریه نشاط زندگی",
+        "theme": "الگوسازی"
+      },
+      "source_type": "original_editorial",
+      "source_name": "تحریریه نشاط زندگی",
+      "is_published": false
     }
   ]
 }
